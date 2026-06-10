@@ -25,7 +25,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix.gif" alt="Phoenix"/>
 
 ```yaml
 Hemanth Reddy:
