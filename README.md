@@ -25,7 +25,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-flying.gif" alt="Phoenix"/>
+<img align="right" width="220" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-flying.gif" alt="Phoenix"/>
 
 ```yaml
 Hemanth Reddy:
