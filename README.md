@@ -165,7 +165,7 @@ Hemanth Reddy:
 
 > **Full-Stack Engineering** · **System Design** · **Real-Time Systems** · **UI/UX** · **TDD** &nbsp;—&nbsp; `TypeScript` · `React` · `Java` · `WebSockets` · `Time-Series Data`
 
-Built **SEED** — a full-stack real-time grid platform with a Java/WebSocket streaming backend, REST microservices, **TypeScript + D3.js** visualizations across **50+ nodes**, and **TimescaleDB** time-series storage processing **75K+ records/min**, developed end-to-end with strict **TDD**.
+Built **SEED** — a full-stack real-time grid visualization platform with a streaming backend, REST microservices, and interactive dashboards spanning **50+ nodes**, with high-throughput time-series storage processing **75K+ records/min**, developed end-to-end with strict **TDD**.
 
 </details>
 
@@ -175,7 +175,7 @@ Built **SEED** — a full-stack real-time grid platform with a Java/WebSocket st
 
 > **Applied ML / NLP** · **Data Engineering** · **Research** &nbsp;—&nbsp; `Python` · `ETL Pipelines` · `scikit-learn` · `PostgreSQL`
 
-Built a Python **ETL** pipeline normalizing **85K+ records** from the MobyGames API, then applied an NLP pipeline (TF-IDF, SVD, Ensemble LDA via Gensim, spaCy, scikit-learn) on Amazon reviews to surface **antitrust signals**, persisted to PostgreSQL.
+Built an **ETL** pipeline normalizing **85K+ records** from the MobyGames API, then applied a multi-model **NLP pipeline** on Amazon reviews to surface **antitrust signals** — persisted to a relational store for downstream research analysis.
 
 </details>
 
@@ -185,7 +185,7 @@ Built a Python **ETL** pipeline normalizing **85K+ records** from the MobyGames 
 
 > **Cloud Engineering** · **Event-Driven Architecture** · **GenAI** · **IaC / Security** &nbsp;—&nbsp; `AWS` · `TypeScript` · `React` · `Amazon Bedrock` · `Java`
 
-Built a secure event-driven drone-data pipeline (AWS Transfer Family · S3 · Lambda · EventBridge · SQS) achieving **99.9% reliability** and **97% projected cost reduction**, paired with a React/Cesium 3D viewer and an **Amazon Bedrock** GenAI incident summarizer that cut response time **40%** — productionized with Terraform IaC and least-privilege IAM.
+Engineered a secure, event-driven drone-data ingestion pipeline achieving **99.9% reliability** and **97% projected cost reduction**, paired with a **3D geospatial viewer** and a **GenAI incident summarizer** cutting response time by **40%** — fully productionized with infrastructure-as-code and least-privilege security policies.
 
 </details>
 
@@ -195,7 +195,7 @@ Built a secure event-driven drone-data pipeline (AWS Transfer Family · S3 · La
 
 > **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Kafka` · `Redis` · `Kubernetes` · `Java`
 
-Scaled ONDC order/cart services from **0 → 1M+ orders** across **5K+ merchants** using Java microservices, Kafka async workflows, and Redis caching (−40% latency), shipped REST/gRPC/GraphQL APIs with OAuth, automated zero-downtime CI/CD for **10+ services** (−60% support tickets, −40% false alerts, **2× faster** RCA).
+Scaled ONDC order/cart services from **0 → 1M+ orders** across **5K+ merchants**, cutting latency **40%** via async event-driven workflows and distributed caching; shipped multi-protocol APIs with OAuth, and automated zero-downtime CI/CD for **10+ services** — reducing support tickets **60%** and achieving **2× faster** RCA.
 
 </details>
 
