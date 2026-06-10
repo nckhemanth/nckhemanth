@@ -25,6 +25,8 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About
 
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt=""/>
+
 ```yaml
 Hemanth Reddy:
   role:      Software Engineer
