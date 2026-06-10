@@ -165,10 +165,7 @@ Hemanth Reddy:
 
 > **Full-Stack Engineering** · **System Design** · **Real-Time Systems** · **UI/UX** · **TDD** &nbsp;—&nbsp; `Java` · `React` · `TypeScript` · `WebSockets` · `Time-Series Data`
 
-- Built **SEED** — a full-stack real-time electrical grid platform: Spring Boot backend + React/Next.js frontend, developed with strict **TDD**.
-- Engineered a dual-layer backend: Spring Boot **WebSocket** endpoints for live streaming + REST microservices for auth and CSV/ZIP export.
-- Delivered **TypeScript + D3.js** views visualizing power, voltage amplitude and angle across **50+ grid nodes and lines**.
-- Integrated **TimescaleDB** via Spring Data JPA for high-throughput time-series storage across **6 measurement tables** (75K+ records/min).
+Built **SEED** — a full-stack real-time grid platform with a Java/WebSocket streaming backend, REST microservices, **TypeScript + D3.js** visualizations across **50+ nodes**, and **TimescaleDB** time-series storage processing **75K+ records/min**, developed end-to-end with strict **TDD**.
 
 </details>
 
@@ -178,9 +175,7 @@ Hemanth Reddy:
 
 > **Applied ML / NLP** · **Data Engineering** · **Research** &nbsp;—&nbsp; `Python` · `ETL Pipelines` · `scikit-learn` · `PostgreSQL`
 
-- Engineered a Python **ETL** pipeline for the MobyGames REST API — normalized **85K+ records** with idempotent upserts.
-- Built an ML/NLP pipeline (Gensim, spaCy, scikit-learn) applying TF-IDF, SVD embeddings and Ensemble LDA on Amazon reviews to surface **antitrust signals**.
-- Persisted engineered features and topics to PostgreSQL for downstream analysis.
+Built a Python **ETL** pipeline normalizing **85K+ records** from the MobyGames API, then applied an NLP pipeline (TF-IDF, SVD, Ensemble LDA via Gensim, spaCy, scikit-learn) on Amazon reviews to surface **antitrust signals**, persisted to PostgreSQL.
 
 </details>
 
@@ -190,10 +185,7 @@ Hemanth Reddy:
 
 > **Cloud Engineering** · **Event-Driven Architecture** · **GenAI** · **IaC / Security** &nbsp;—&nbsp; `Java` · `AWS` · `React` · `TypeScript` · `Amazon Bedrock`
 
-- Built a secure, event-driven drone-data pipeline (AWS Transfer Family · S3 · Lambda · EventBridge · SQS) — **99.9% reliability**, **97% projected cost reduction**.
-- Created a Cesium 3D Tiles viewer in React backed by Spring Boot microservices exposing 3D mapping data.
-- Engineered an Amazon **Bedrock** GenAI incident summarizer — **40% faster** response via telemetry insights and RCA.
-- Productionized with IaC (**Terraform**) and least-privilege IAM for a hardened security posture.
+Built a secure event-driven drone-data pipeline (AWS Transfer Family · S3 · Lambda · EventBridge · SQS) achieving **99.9% reliability** and **97% projected cost reduction**, paired with a React/Cesium 3D viewer and an **Amazon Bedrock** GenAI incident summarizer that cut response time **40%** — productionized with Terraform IaC and least-privilege IAM.
 
 </details>
 
@@ -203,12 +195,7 @@ Hemanth Reddy:
 
 > **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Java` · `Kafka` · `Redis` · `Kubernetes`
 
-- Led backend for ONDC order/cart services — scaled **0 → 1M+ orders**, **5,000+** merchants, **50,000+** warehouses.
-- Built Multicart with Redis caching + Kafka async pipelines — cut API latency **40%** and reduced cart error rates.
-- Architected daily catalog ingestion + Merchant Rejection Reporting — **60% fewer** seller support tickets.
-- Designed REST + Webhooks + gRPC + GraphQL APIs with OAuth and secure-development standards.
-- Automated zero-downtime CI/CD across **10+ microservices** (Jenkins, GitHub Actions, Docker, K8s) — **15% faster** releases.
-- Improved observability (Prometheus, Grafana, Kibana) — **40% fewer** false alerts, **2× faster** RCA.
+Scaled ONDC order/cart services from **0 → 1M+ orders** across **5K+ merchants** using Java microservices, Kafka async workflows, and Redis caching (−40% latency), shipped REST/gRPC/GraphQL APIs with OAuth, automated zero-downtime CI/CD for **10+ services** (−60% support tickets, −40% false alerts, **2× faster** RCA).
 
 </details>
 
