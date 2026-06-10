@@ -302,6 +302,8 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/__Hemanth_Reddy__?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="78%" alt="LeetCode stats"/>
+  <br/>
+  <a href="https://github.com/nckhemanth0/leetcode-sync"><img src="https://img.shields.io/badge/Solutions-leetcode--sync-1f2937?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
