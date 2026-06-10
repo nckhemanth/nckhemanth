@@ -300,7 +300,11 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/pacman-contribution-graph-dark.svg"/>
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=2" width="100%"/>
