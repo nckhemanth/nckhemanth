@@ -82,7 +82,7 @@ Hemanth Reddy:
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="58" height="58"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="58" height="58"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="58" height="58"/>&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="58" height="58"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="58" height="58"/>
 
 </div>
 
