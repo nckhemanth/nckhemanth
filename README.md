@@ -18,6 +18,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=nckhemanth0&label=Profile%20views&color=8b5cf6&style=flat-square"/>
 
+<br/>
+<sub>📈 <a href="https://yhype.me/">Ÿ HŸPE analytics</a> — profile trends, referrers &amp; follower history (sign in with GitHub)</sub>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=2" width="100%"/>
@@ -287,8 +290,8 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 ## &nbsp;📊&nbsp; GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nckhemanth0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&border_radius=12&hide=stars,issues,contribs" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nckhemanth0&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=a855f7&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e&border_radius=12" height="170"/>
+  <img src="./profile/github-stats.svg" height="170" alt="GitHub stats"/>
+  <img src="./profile/streak.svg" height="170" alt="GitHub streak"/>
 </div>
 
 <div align="center">
@@ -296,9 +299,11 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nckhemanth0&layout=donut-vertical&hide_border=true&theme=transparent&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&border_radius=12&langs_count=6&hide=jupyter%20notebook,php,c,shell,dockerfile,html,css,makefile,vue,tsql,ejs&custom_title=Core%20Languages" height="200"/>
+  <img src="./profile/top-langs.svg" height="200" alt="Top languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth0&theme=midnight_purple&utcOffset=-5" height="200"/>
 </div>
+
+<sub>Stats refresh daily via GitHub Actions · <a href="https://yhype.me/">Ÿ HŸPE</a> for visitor trends</sub>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/__Hemanth_Reddy__?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="78%" alt="LeetCode stats"/>

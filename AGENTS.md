@@ -24,6 +24,12 @@ Read parent hub: `../context/common/CHANGELOG.md` (if workspace cloned as siblin
 - GIF cache-bust: use new filename when GitHub caches old asset
 - Phoenix source: local video → ffmpeg crop for README height match
 
+## Analytics
+
+- Profile views badge: `komarev.com/ghpvc` → dashboard at [yhype.me](https://yhype.me/) after GitHub sign-in
+- Stats SVGs: `profile/*.svg` refreshed by `.github/workflows/profile-stats.yml` (daily 03:00 UTC)
+- Optional secret `STATS_TOKEN` (PAT with `repo` scope) for private commit counts in stats card
+
 ## SEO
 
 - Tech index in `<details>` block at bottom
