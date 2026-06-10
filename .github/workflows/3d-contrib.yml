@@ -1,12 +1,7 @@
 name: Generate 3D Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write

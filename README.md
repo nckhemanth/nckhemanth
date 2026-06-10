@@ -203,10 +203,14 @@ currently: turning caffeine into scalable systems ☕→🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
-### 🧊 3D Contribution Skyline
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/profile-night-rainbow.svg"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nckhemanth0&theme=tokyonight" width="95%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nckhemanth0&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nckhemanth0&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nckhemanth0&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth0&theme=tokyonight&utcOffset=-5" height="165"/>
 </div>
 
 ### 🐍 Watch My Contributions Get Eaten
