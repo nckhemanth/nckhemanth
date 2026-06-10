@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/nckhemanth0">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:312e81,100:6d28d9&height=260&section=header&text=Hemanth%20Reddy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Full-Stack%20%C2%B7%20GenAI&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:312e81,100:6d28d9&height=260&section=header&text=Hemanth%20Reddy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Engineering&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
 </a>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=NYU+MS+Computer+Science+%C2%B7+GPA+3.97%2F4.0;1.5+yrs+Software+Developer+%28R%26D%29+%40+NYU+%C2%B7+New+York;2.5%2B+yrs+%40+Paytm+%E2%86%92+1M%2B+Orders+Scaled;Event-driven+AWS+pipelines+%40+EchoStar;Backend+%C2%B7+Distributed+Systems+%C2%B7+Cloud+%C2%B7+GenAI)](https://github.com/nckhemanth0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=NYU+MS+Computer+Science+%C2%B7+GPA+3.97%2F4.0;1.5+yrs+Software+Developer+%28R%26D%29+%40+NYU+%C2%B7+New+York;2.5%2B+yrs+%40+Paytm+%E2%86%92+1M%2B+Orders+Scaled;Event-driven+AWS+pipelines+%40+EchoStar;Backend+%C2%B7+Distributed+Systems+%C2%B7+Cloud+%C2%B7+AI+Engineering)](https://github.com/nckhemanth0)
 
 <img src="https://komarev.com/ghpvc/?username=nckhemanth0&label=Profile%20views&color=8b5cf6&style=flat-square"/>
 
@@ -34,7 +34,7 @@ Hemanth Reddy:
   education:
     - NYU — MS Computer Science · GPA 3.97
     - IIT Dharwad — B.Tech CSE · GPA 3.70
-  focus:     [ Backend, Distributed Systems, Cloud, GenAI ]
+  focus:     [ Backend, Distributed Systems, Cloud, AI Engineering ]
   shipped:   1M+ orders · 99.9% reliable pipelines · RAG systems
   seeking:   Full-time SWE roles · open to relocate
   ethos:     clean architecture · TDD · observability at scale
@@ -184,7 +184,7 @@ Built an **ETL** pipeline normalizing **85K+ records** from the MobyGames API, t
 <summary><b>🛰️&nbsp; EchoStar / Dish Networks &nbsp;—&nbsp; Software Systems Engineering Intern &nbsp;·&nbsp; Jun – Aug 2025 · Denver, CO</b></summary>
 <br/>
 
-> **Cloud Engineering** · **Event-Driven Architecture** · **GenAI** · **IaC / Security** &nbsp;—&nbsp; `AWS` · `TypeScript` · `React` · `Amazon Bedrock` · `Java`
+> **Cloud Engineering** · **Event-Driven Architecture** · **AI Engineering** · **IaC / Security** &nbsp;—&nbsp; `AWS` · `TypeScript` · `React` · `Amazon Bedrock` · `Java`
 
 Engineered a secure, event-driven drone-data ingestion pipeline achieving **99.9% reliability** and **97% projected cost reduction**, paired with a **3D geospatial viewer** and a **GenAI incident summarizer** cutting response time by **40%** — fully productionized with infrastructure-as-code and least-privilege security policies.
 
@@ -210,7 +210,7 @@ Scaled ONDC order/cart services from **0 → 1M+ orders** across **5K+ merchants
 <td valign="top" width="50%">
 
 ### 🩺 CliniPulse AI
-> **Full-Stack Engineering** · **RAG / GenAI** · **Workflow Automation** · **Cloud**
+> **Full-Stack Engineering** · **RAG · AI Engineering** · **Workflow Automation** · **Cloud**
 
 Built a healthcare workflow platform with retrieval-augmented generation and hybrid cloud storage — cut report turnaround from **30 min → under 2 min**.
 
@@ -319,7 +319,7 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 
 <div align="center">
 
-**Actively seeking full-time Software Engineer roles — Backend · Distributed Systems · Full-Stack · GenAI**
+**Actively seeking full-time Software Engineer roles — Backend · Distributed Systems · Full-Stack · AI Engineering**
 
 <br/>
 
