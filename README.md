@@ -250,15 +250,29 @@ Built a multi-tenant agent system for autonomous budget-vs-experience negotiatio
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🔋 NSF Smart Grid Telemetry
+> **Real-Time Systems** · **Telemetry** · **System Design** · **Visualization**
+
+Real-time telemetry platform processing **75K+ records/min** at sub-500ms latency across distributed grid nodes.
+
+[`Website`](https://www.seed-grid.org/)
+
+</td>
+<td valign="top" width="50%">
+
+### 📬 Subscription Tracker MCP
+> **Automation** · **Agent Tools** · **Data Extraction** · **Integration**
+
+Automated subscription extraction agent with **90%+** accuracy — pulls and structures billing data from email inboxes.
+
+[`GitHub`](https://github.com/nckhemanth0/subscription-tracker-mcp)
+
+</td>
+</tr>
 </table>
-
-<div align="center">
-
-🔋 **NSF Smart Grid Telemetry** — Real-time telemetry platform processing **75K+ records/min** at sub-500ms latency · [`Website`](https://www.seed-grid.org/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-📬 **Subscription Tracker MCP** — Automated subscription extraction agent with **90%+** accuracy · [`GitHub`](https://github.com/nckhemanth0/subscription-tracker-mcp)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=2" width="100%"/>
 
