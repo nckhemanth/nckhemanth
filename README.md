@@ -25,7 +25,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-accent.gif" alt="Phoenix"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-modern.svg" alt="Phoenix accent"/>
 
 ```yaml
 Hemanth Reddy:
