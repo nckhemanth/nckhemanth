@@ -9,7 +9,7 @@
 <a href="mailto:nckhemanthreddy7@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=ea4335"/></a>&nbsp;
 <a href="https://github.com/nckhemanth0"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://nckhemanth.cloud"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=8b5cf6"/></a>&nbsp;
-<a href="https://leetcode.com/u/nckhemanth0/"><img src="https://img.shields.io/badge/LeetCode-1f2937?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>&nbsp;
+<a href="https://leetcode.com/u/__Hemanth_Reddy__/"><img src="https://img.shields.io/badge/LeetCode-1f2937?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Open_to_Work-10b981?style=flat-square&logo=briefcase&logoColor=white"/>
 
 <br/><br/>
@@ -297,7 +297,7 @@ Autonomous budget-vs-experience negotiation — **90% less** itinerary planning 
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nckhemanth0?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="78%" alt="LeetCode stats"/>
+  <img src="https://leetcard.jacoblin.cool/__Hemanth_Reddy__?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="78%" alt="LeetCode stats"/>
 </div>
 
 <br/>
