@@ -161,14 +161,40 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <br/>
 
 <details open>
-<summary><b>🏢 EchoStar / Dish Networks &nbsp;·&nbsp; Systems Engineering Intern &nbsp;·&nbsp; Jun–Aug 2025 · Denver, CO</b></summary>
+<summary><b>🎓 New York University &nbsp;·&nbsp; Software Developer — GRA (Smart Grid) &nbsp;·&nbsp; Dec 2024–Present · New York, NY</b></summary>
 <br/>
 
-> `Python` `TypeScript` `React` `AWS` `S3` `Lambda` `SQS` `EventBridge` `PostgreSQL` `Amazon Bedrock` `Docker`
+> `Java` `Spring Boot` `React` `D3.js` `WebSocket` `REST APIs` `PostgreSQL` `TimescaleDB` `JUnit` `TDD`
 
-- 🚀 Built event-driven SFTP-to-S3 ingestion platform — **99.9% upload reliability**, projected **$7.8M/yr cost reduction**
-- 🎨 Delivered React tooling + backend APIs for imagery/metadata workflows across engineering and field ops teams
-- 🤖 Engineered Amazon Bedrock GenAI incident summarizer — reduced response time by **40%** via RAG + telemetry insights
+- ⚡ Built **SEED** — a real-time electrical grid visualization platform using Spring Boot + React with **TDD** principles
+- 🔌 Dual-layer backend: Spring Boot WebSocket endpoints for live streaming + REST microservices for auth & CSV/ZIP export
+- 📊 Interactive D3.js views visualizing power, voltage amplitude & angle across **50+ grid nodes and lines**
+- 🗄️ Integrated TimescaleDB + Spring Data JPA for high-throughput time-series storage across **6 measurement tables**
+
+</details>
+
+<details open>
+<summary><b>🎓 New York University &nbsp;·&nbsp; Software Developer — GRA (NLP / ML Research) &nbsp;·&nbsp; Sep 2024–May 2025 · New York, NY</b></summary>
+<br/>
+
+> `Python` `PostgreSQL` `Gensim` `spaCy` `scikit-learn` `TF-IDF` `SVD` `Ensemble LDA` `ETL`
+
+- 🔬 Engineered a Python ETL pipeline for the MobyGames REST API — normalized **85K+ records** with idempotent upserts
+- 🤖 Built ML/NLP pipeline (Gensim, spaCy, scikit-learn) applying TF-IDF, SVD embeddings & Ensemble LDA on Amazon reviews to surface **antitrust signals**
+- 🗃️ Persisted extracted features and topics to PostgreSQL for downstream analysis
+
+</details>
+
+<details open>
+<summary><b>🏢 EchoStar / Dish Networks &nbsp;·&nbsp; Software Systems Engineering Intern &nbsp;·&nbsp; Jun–Aug 2025 · Denver, CO</b></summary>
+<br/>
+
+> `Java` `Spring Boot` `React` `AWS` `S3` `Lambda` `SQS` `EventBridge` `PostgreSQL` `Amazon Bedrock` `Terraform` `IaC`
+
+- 🚀 Built secure cloud-native event-driven drone data pipeline (AWS Transfer Family + S3 + Lambda + EventBridge + SQS) — **99.9% reliability**, **97% cost reduction**
+- 🌐 Created Cesium 3D Tiles viewer in React to visualize photogrammetry results with Spring Boot microservices exposing 3D mapping data
+- 🤖 Amazon Bedrock GenAI incident summarizer — reduced response time by **40%** via telemetry insights & root cause analysis
+- 🔒 Full SDLC with IaC (Terraform), least-privilege IAM, and secure development practices
 
 </details>
 
@@ -176,13 +202,14 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <summary><b>🏢 Paytm / One97 Communications &nbsp;·&nbsp; Software Development Engineer &nbsp;·&nbsp; Jan 2022–Jun 2024 · Noida, India</b></summary>
 <br/>
 
-> `Java` `Spring Boot` `Node.js` `JavaScript` `GraphQL` `Kafka` `Redis` `MySQL` `MongoDB` `Docker` `Kubernetes`
+> `Java` `Spring Boot` `gRPC` `GraphQL` `Kafka` `Redis` `Oracle` `PostgreSQL` `Hibernate` `Docker` `Kubernetes` `Jenkins` `GitHub Actions`
 
-- 📦 Scaled ONDC e-commerce platform **0 → 1M+ orders**, **5,000+** merchants, **50,000+** warehouses
-- ⚡ Cut API latency by **40%** and cart error rate by **75%** via Redis caching + Kafka async workflows + SQL optimization
-- 📊 Built Merchant Rejection Reporting — slashed seller support JIRAs by **60%**
-- 🔄 Zero-downtime deploys for **10+ microservices** via Docker/K8s — **15% faster** release cycles
-- 🔍 Prometheus/Grafana/Kibana dashboards — **40% fewer false alerts**, **2× faster** RCA
+- 📦 Led backend for ONDC order/cart services — scaled **0 → 1M+ orders**, **5,000+** merchants, **50,000+** warehouses
+- ⚡ Multicart + Redis caching + Kafka async pipelines — cut API latency **40%** and cart error rates
+- 📊 Daily supply chain catalog ingestion + Merchant Rejection Reporting — slashed seller support tickets by **60%**
+- 🔐 RESTful APIs + Webhooks + gRPC + GraphQL with OAuth secure standards
+- 🔄 Zero-downtime CI/CD for **10+ microservices** (Jenkins, GitHub Actions, Docker, K8s) — **15% faster** releases
+- 🔍 Prometheus/Grafana/Kibana — **40% fewer false alerts**, **2× faster** RCA
 
 </details>
 
