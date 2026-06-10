@@ -13,6 +13,14 @@ Repo: `nckhemanth0/nckhemanth0` · **Must stay public** (renders on github.com/n
 
 Read parent hub: `../context/common/CHANGELOG.md` (if workspace cloned as siblings).
 
+## Personal folder
+
+`personal/` is gitignored — local notes, resume drafts, private experiments. Never pushed.
+
+```bash
+mkdir -p personal
+```
+
 ## After editing
 
 - Append profile changes to hub `context/common/CHANGELOG.md`
