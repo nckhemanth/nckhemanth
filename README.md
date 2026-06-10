@@ -88,6 +88,8 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65"/>
 
 </div>
 
@@ -95,7 +97,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,ts,js,cpp,spring,nodejs,fastapi,graphql,kafka,redis,react,nextjs,pytorch,aws,azure,docker,kubernetes,terraform,postgres,mysql,mongodb,elasticsearch&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,go,ts,js,cpp,spring,nodejs,fastapi,graphql,kafka,redis,react,nextjs,d3,pytorch,aws,azure,docker,kubernetes,terraform,postgres,mysql,mongodb,elasticsearch&theme=dark&perline=13)](https://skillicons.dev)
 
 <br/>
 
@@ -105,6 +107,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -114,6 +117,8 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -121,6 +126,8 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **🤖 AI / ML**
@@ -164,12 +171,12 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <summary><b>🎓 New York University &nbsp;·&nbsp; Software Developer — GRA (Smart Grid) &nbsp;·&nbsp; Dec 2024–Present · New York, NY</b></summary>
 <br/>
 
-> `Java` `Spring Boot` `React` `D3.js` `WebSocket` `REST APIs` `PostgreSQL` `TimescaleDB` `JUnit` `TDD`
+> `Java` `Spring Boot` `JavaScript` `TypeScript` `React` `Next.js` `D3.js` `WebSocket` `REST APIs` `PostgreSQL` `TimescaleDB` `Spring Data JPA` `JUnit` `TDD`
 
-- ⚡ Built **SEED** — a real-time electrical grid visualization platform using Spring Boot + React with **TDD** principles
-- 🔌 Dual-layer backend: Spring Boot WebSocket endpoints for live streaming + REST microservices for auth & CSV/ZIP export
-- 📊 Interactive D3.js views visualizing power, voltage amplitude & angle across **50+ grid nodes and lines**
-- 🗄️ Integrated TimescaleDB + Spring Data JPA for high-throughput time-series storage across **6 measurement tables**
+- ⚡ Built **SEED** — full-stack real-time electrical grid platform: **Spring Boot** backend + **React/Next.js** frontend with strict **TDD**
+- 🔌 Dual-layer backend: **Spring Boot** WebSocket endpoints for live streaming + REST microservices for auth & CSV/ZIP export
+- 📊 **TypeScript + D3.js** interactive views visualizing power, voltage amplitude & angle across **50+ grid nodes and lines**
+- 🗄️ **TimescaleDB** + Spring Data JPA — high-throughput time-series storage across **6 measurement tables**, **75k+ records/min**
 
 </details>
 
