@@ -1,11 +1,5 @@
 # ── Personal local folder (never pushed) ──
-# Notes, drafts, resume variants, experiments — stays on your machine only.
 personal/
-
-# ── Secrets ──
-.env
-.env.*
-*.cookie
 
 # ── OS / editor ──
 .DS_Store
