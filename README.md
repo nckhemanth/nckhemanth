@@ -309,15 +309,6 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=2" width="100%"/>
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
-## &nbsp;🏅&nbsp; Achievements
-
-- 🏆 **Paytm Spot Award** — youngest recipient, recognized for Operational Excellence on the ONDC platform *(2023–2024)*
-- 📐 **JEE Advanced** — ranked in the **top 1%** nationally across India *(2018)*
-- 🔬 **NYU GenAI Volunteer** — prompt workflows, AI tooling and responsible-AI development
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=2" width="100%"/>
-
 <!-- ===================== CONTACT ===================== -->
 ## &nbsp;📬&nbsp; Let's Connect
 
