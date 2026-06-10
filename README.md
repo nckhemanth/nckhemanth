@@ -74,6 +74,10 @@ currently: turning caffeine into scalable systems ☕→🚀
 
 <div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=java,python,ts,js,cpp,spring,nodejs,fastapi,graphql,kafka,redis,react,nextjs,pytorch,aws,azure,docker,kubernetes,terraform,postgres,mysql,mongodb,elasticsearch&theme=dark&perline=12)](https://skillicons.dev)
+
+<br/>
+
 **⚡ Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -197,6 +201,12 @@ currently: turning caffeine into scalable systems ☕→🚀
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+### 🧊 3D Contribution Skyline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/profile-night-rainbow.svg"/>
 </div>
 
 ### 🐍 Watch My Contributions Get Eaten
