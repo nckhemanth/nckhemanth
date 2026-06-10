@@ -1,6 +1,8 @@
-<div align="center">
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Hemanth%20Reddy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full-Stack%20%7C%20GenAI&descAlignY=56&descColor=a78bfa&descSize=22" width="100%"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hemanth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full-Stack%20%7C%20GenAI&descAlignY=58&descColor=a78bfa&descSize=20" width="100%"/>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/hemanth-reddy-a22a931a0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,17 +17,17 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=NYU+MS+CS+%7C+GPA+3.97%2F4.0;2%2B+Years+Industry+Experience+%40+Paytm;Scaled+ONDC+Platform+to+1M%2B+Orders;Built+GenAI+%2B+RAG+Systems+%40+Dish+Networks;Full-Stack+%7C+Backend+%7C+Distributed+Systems;Actively+Seeking+SWE+Roles+%F0%9F%9A%80)](https://github.com/nckhemanth0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=NYU+MS+CS+%7C+GPA+3.97%2F4.0;2%2B+Years+Industry+Experience+%40+Paytm;Scaled+ONDC+Platform+to+1M%2B+Orders;Built+GenAI+%2B+RAG+Systems+%40+Dish+Networks;Full-Stack+%7C+Backend+%7C+Distributed+Systems;Actively+Seeking+SWE+Roles+%F0%9F%9A%80)](https://github.com/nckhemanth0)
 
-<img src="https://komarev.com/ghpvc/?username=nckhemanth0&label=Profile+Views&color=7c3aed&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=nckhemanth0&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> About Me
 
 ```yaml
 name: Hemanth Reddy
@@ -39,11 +41,16 @@ experience:
 seeking: Full-time SWE · Backend · Full-Stack · GenAI
 open_to_relocate: true
 response_time: < 24 hours
+currently: turning caffeine into scalable systems ☕→🚀
 ```
 
 <br clear="right"/>
 
----
+<div align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default" alt="quote"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 💥 Impact at a Glance
 
@@ -61,7 +68,7 @@ response_time: < 24 hours
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -120,7 +127,7 @@ response_time: < 24 hours
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 💼 Experience
 
@@ -150,7 +157,7 @@ response_time: < 24 hours
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -167,7 +174,15 @@ response_time: < 24 hours
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nckhemanth0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,Reviews"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -180,7 +195,17 @@ response_time: < 24 hours
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nckhemanth0&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="180"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🏅 Achievements
 
@@ -194,7 +219,7 @@ response_time: < 24 hours
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
@@ -215,4 +240,4 @@ response_time: < 24 hours
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=a78bfa&fontSize=22&fontAlignY=70" width="100%"/>
