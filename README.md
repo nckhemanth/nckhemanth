@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=NYU+MS+Computer+Science+%C2%B7+GPA+3.97%2F4.0;1.5+yrs+Software+Developer+%28R%26D%29+%40+NYU+%C2%B7+New+York;2.5%2B+yrs+%40+Paytm+%E2%86%92+1M%2B+Orders+Scaled;Event-driven+AWS+pipelines+%40+EchoStar;Backend+%C2%B7+Distributed+Systems+%C2%B7+Cloud+%C2%B7+AI+Engineering)](https://github.com/nckhemanth)
 
-<img src="https://komarev.com/ghpvc/?username=nckhemanth&label=Profile%20views&color=8b5cf6&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=nckhemanth&label=Profile%20views&color=8b5cf6&style=flat-square&base=1000"/>
 
 <br/>
 <sub>📈 <a href="https://yhype.me/">Ÿ HŸPE analytics</a> — profile trends, referrers &amp; follower history (sign in with GitHub)</sub>

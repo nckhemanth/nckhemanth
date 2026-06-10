@@ -26,7 +26,7 @@ Read workspace hub (if cloned as siblings): `workspace/context/repos/nckhemanth/
 
 ## Analytics
 
-- Profile views badge: `komarev.com/ghpvc` → dashboard at [yhype.me](https://yhype.me/) after GitHub sign-in
+- Profile views badge: `komarev.com/ghpvc/?username=nckhemanth&base=1000` (base migrates pre-rename count; adjust if you know exact old total)
 - Stats SVGs: `profile/*.svg` refreshed by `.github/workflows/profile-stats.yml` (daily 03:00 UTC)
 - Optional secret `STATS_TOKEN` (PAT with `repo` scope) for private commit counts in stats card
 
