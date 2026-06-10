@@ -163,7 +163,7 @@ Hemanth Reddy:
 <summary><b>🎓&nbsp; New York University &nbsp;—&nbsp; Software Developer, GRA (Smart Grid) &nbsp;·&nbsp; Dec 2025 – May 2026 · New York, NY</b></summary>
 <br/>
 
-> `Java` · `Spring Boot` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `D3.js` · `WebSocket` · `REST` · `PostgreSQL` · `TimescaleDB` · `JUnit` · `TDD`
+> **Full-Stack Engineering** · **System Design** · **Real-Time Systems** · **UI/UX** · **TDD** &nbsp;—&nbsp; `Java` · `React` · `TypeScript` · `WebSockets` · `Time-Series Data`
 
 - Built **SEED** — a full-stack real-time electrical grid platform: Spring Boot backend + React/Next.js frontend, developed with strict **TDD**.
 - Engineered a dual-layer backend: Spring Boot **WebSocket** endpoints for live streaming + REST microservices for auth and CSV/ZIP export.
@@ -176,7 +176,7 @@ Hemanth Reddy:
 <summary><b>🎓&nbsp; New York University &nbsp;—&nbsp; Software Developer, GRA (NLP / ML Research) &nbsp;·&nbsp; Sep 2024 – May 2025 · New York, NY</b></summary>
 <br/>
 
-> `Python` · `PostgreSQL` · `Gensim` · `spaCy` · `scikit-learn` · `TF-IDF` · `SVD` · `Ensemble LDA`
+> **Applied ML / NLP** · **Data Engineering** · **Research** &nbsp;—&nbsp; `Python` · `ETL Pipelines` · `scikit-learn` · `PostgreSQL`
 
 - Engineered a Python **ETL** pipeline for the MobyGames REST API — normalized **85K+ records** with idempotent upserts.
 - Built an ML/NLP pipeline (Gensim, spaCy, scikit-learn) applying TF-IDF, SVD embeddings and Ensemble LDA on Amazon reviews to surface **antitrust signals**.
@@ -188,7 +188,7 @@ Hemanth Reddy:
 <summary><b>🛰️&nbsp; EchoStar / Dish Networks &nbsp;—&nbsp; Software Systems Engineering Intern &nbsp;·&nbsp; Jun – Aug 2025 · Denver, CO</b></summary>
 <br/>
 
-> `Java` · `Spring Boot` · `TypeScript` · `JavaScript` · `React` · `AWS` · `Lambda` · `SQS` · `EventBridge` · `PostgreSQL` · `Bedrock` · `Terraform`
+> **Cloud Engineering** · **Event-Driven Architecture** · **GenAI** · **IaC / Security** &nbsp;—&nbsp; `Java` · `AWS` · `React` · `TypeScript` · `Amazon Bedrock`
 
 - Built a secure, event-driven drone-data pipeline (AWS Transfer Family · S3 · Lambda · EventBridge · SQS) — **99.9% reliability**, **97% projected cost reduction**.
 - Created a Cesium 3D Tiles viewer in React backed by Spring Boot microservices exposing 3D mapping data.
@@ -201,7 +201,7 @@ Hemanth Reddy:
 <summary><b>🏢&nbsp; Paytm / One97 Communications &nbsp;—&nbsp; Software Development Engineer &nbsp;·&nbsp; Jan 2022 – Jun 2024 · Noida, India</b></summary>
 <br/>
 
-> `Java` · `Spring Boot` · `TypeScript` · `JavaScript` · `gRPC` · `GraphQL` · `Kafka` · `Redis` · `Oracle` · `PostgreSQL` · `Docker` · `Kubernetes` · `Jenkins`
+> **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Java` · `Kafka` · `Redis` · `Kubernetes`
 
 - Led backend for ONDC order/cart services — scaled **0 → 1M+ orders**, **5,000+** merchants, **50,000+** warehouses.
 - Built Multicart with Redis caching + Kafka async pipelines — cut API latency **40%** and reduced cart error rates.
