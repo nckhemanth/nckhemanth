@@ -47,7 +47,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:302b63&height=48&text=💥+Impact+at+a+Glance&fontColor=ffffff&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,50:ff4ecd,100:7928ca&height=56&text=💥+Impact+at+a+Glance&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -69,7 +69,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=48&text=🛠️+Tech+Arsenal&fontColor=a78bfa&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,50:a855f7,100:e879f9&height=56&text=🛠️+Tech+Arsenal&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -155,7 +155,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:0d2137&height=48&text=💼+Experience&fontColor=61dafb&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:38bdf8,100:06b6d4&height=56&text=💼+Experience&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -189,7 +189,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:3b0764&height=48&text=🚀+Featured+Projects&fontColor=e879f9&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:fb923c,100:fbbf24&height=56&text=🚀+Featured+Projects&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -210,19 +210,19 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d0a,100:14532d&height=48&text=🏆+Trophy+Case&fontColor=4ade80&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:22c55e,100:4ade80&height=56&text=🏆+Trophy+Case&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nckhemanth0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nckhemanth0&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" width="95%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,100:1a3a8a&height=48&text=📊+GitHub+Stats&fontColor=93c5fd&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:4f46e5,100:7c3aed&height=56&text=📊+GitHub+Stats&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -253,7 +253,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,100:431407&height=48&text=🐍+Contribution+Snake&fontColor=fb923c&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:f97316,100:fbbf24&height=56&text=🐍+Contribution+Snake&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -265,7 +265,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1c00,100:3d3d00&height=48&text=🏅+Achievements&fontColor=fbbf24&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b45309,50:d97706,100:f59e0b&height=56&text=🏅+Achievements&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -284,7 +284,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=48&text=📬+Let's+Build+Something+Great&fontColor=a78bfa&fontSize=22&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:db2777,50:c026d3,100:7c3aed&height=56&text=📬+Let's+Build+Something+Great&fontColor=ffffff&fontSize=26&animation=twinkling" width="100%"/>
 
 <br/><br/>
 
@@ -301,4 +301,4 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=a78bfa&fontSize=22&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,30:c026d3,60:7c3aed,100:4f46e5&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontColor=ffffff&fontSize=26&fontAlignY=72&animation=twinkling" width="100%"/>
