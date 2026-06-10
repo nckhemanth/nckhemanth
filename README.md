@@ -99,6 +99,7 @@ Hemanth Reddy:
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
+![C++](https://img.shields.io/badge/C++-1f2937?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-1f2937?style=flat-square&logo=postgresql&logoColor=4479A1)
 
 **Backend & APIs**
