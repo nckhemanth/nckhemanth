@@ -44,7 +44,7 @@ Hemanth Reddy:
 
 </td>
 <td valign="top" align="right" width="32%">
-<img width="200" height="205" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-flying.gif" alt="Phoenix"/>
+<img width="200" height="205" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-accent.gif" alt="Phoenix"/>
 </td>
 </tr>
 </table>
