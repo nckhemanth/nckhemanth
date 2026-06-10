@@ -1,6 +1,6 @@
 # AGENTS.md — GitHub profile README
 
-Repo: `nckhemanth0/nckhemanth0` · **Must stay public** (renders on github.com/nckhemanth0).
+Repo: `nckhemanth/nckhemanth` · **Must stay public** (renders on github.com/nckhemanth).
 
 ## Constraints
 

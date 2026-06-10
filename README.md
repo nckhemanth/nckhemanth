@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<a href="https://github.com/nckhemanth0">
+<a href="https://github.com/nckhemanth">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:312e81,100:6d28d9&height=260&section=header&text=Hemanth%20Reddy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Engineering&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
 </a>
 
@@ -7,16 +7,16 @@
 
 <a href="https://www.linkedin.com/in/hemanth-reddy-a22a931a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:nckhemanthreddy7@gmail.com"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=ea4335"/></a>&nbsp;
-<a href="https://github.com/nckhemanth0"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/nckhemanth"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://nckhemanth.cloud"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=8b5cf6"/></a>&nbsp;
 <a href="https://leetcode.com/u/__Hemanth_Reddy__/"><img src="https://img.shields.io/badge/LeetCode-1f2937?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Open_to_Work-10b981?style=flat-square&logo=briefcase&logoColor=white"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=NYU+MS+Computer+Science+%C2%B7+GPA+3.97%2F4.0;1.5+yrs+Software+Developer+%28R%26D%29+%40+NYU+%C2%B7+New+York;2.5%2B+yrs+%40+Paytm+%E2%86%92+1M%2B+Orders+Scaled;Event-driven+AWS+pipelines+%40+EchoStar;Backend+%C2%B7+Distributed+Systems+%C2%B7+Cloud+%C2%B7+AI+Engineering)](https://github.com/nckhemanth0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=NYU+MS+Computer+Science+%C2%B7+GPA+3.97%2F4.0;1.5+yrs+Software+Developer+%28R%26D%29+%40+NYU+%C2%B7+New+York;2.5%2B+yrs+%40+Paytm+%E2%86%92+1M%2B+Orders+Scaled;Event-driven+AWS+pipelines+%40+EchoStar;Backend+%C2%B7+Distributed+Systems+%C2%B7+Cloud+%C2%B7+AI+Engineering)](https://github.com/nckhemanth)
 
-<img src="https://komarev.com/ghpvc/?username=nckhemanth0&label=Profile%20views&color=8b5cf6&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=nckhemanth&label=Profile%20views&color=8b5cf6&style=flat-square"/>
 
 <br/>
 <sub>📈 <a href="https://yhype.me/">Ÿ HŸPE analytics</a> — profile trends, referrers &amp; follower history (sign in with GitHub)</sub>
@@ -47,7 +47,7 @@ Hemanth Reddy:
 
 </td>
 <td valign="top" align="right" width="32%">
-<img width="200" height="205" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-accent.gif" alt="Phoenix"/>
+<img width="200" height="205" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/assets/phoenix-accent.gif" alt="Phoenix"/>
 </td>
 </tr>
 </table>
@@ -234,7 +234,7 @@ Built a healthcare workflow platform with retrieval-augmented generation and hyb
 
 Engineered a multi-domain fine-tuning and serving pipeline — **70% cheaper** than proprietary APIs across **5 domain models**.
 
-[`Live Demo`](https://github.com/nckhemanth0/llm-finetune-factory)
+[`Live Demo`](https://github.com/nckhemanth/llm-finetune-factory)
 
 </td>
 </tr>
@@ -246,7 +246,7 @@ Engineered a multi-domain fine-tuning and serving pipeline — **70% cheaper** t
 
 Built a recruiting portal with candidate pipelines and recruiter dashboards — validated, paginated APIs cut list and audit retrieval latency by **~30%**.
 
-[`GitHub`](https://github.com/nckhemanth0/recruit-flow)
+[`GitHub`](https://github.com/nckhemanth/recruit-flow)
 
 </td>
 <td valign="top" width="50%">
@@ -278,7 +278,7 @@ Real-time telemetry platform processing **75K+ records/min** at sub-500ms latenc
 
 Automated subscription extraction agent with **90%+** accuracy — pulls and structures billing data from email inboxes.
 
-[`GitHub`](https://github.com/nckhemanth0/subscription-tracker-mcp)
+[`GitHub`](https://github.com/nckhemanth/subscription-tracker-mcp)
 
 </td>
 </tr>
@@ -295,12 +295,12 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth0&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a855f7&area=true&area_color=6366f1&hide_border=true&radius=12" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a855f7&area=true&area_color=6366f1&hide_border=true&radius=12" width="96%"/>
 </div>
 
 <div align="center">
   <img src="./profile/top-langs.svg" height="200" alt="Top languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth0&theme=midnight_purple&utcOffset=-5" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth&theme=midnight_purple&utcOffset=-5" height="200"/>
 </div>
 
 <sub>Stats refresh daily via GitHub Actions · <a href="https://yhype.me/">Ÿ HŸPE</a> for visitor trends</sub>
@@ -308,16 +308,16 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/__Hemanth_Reddy__?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="78%" alt="LeetCode stats"/>
   <br/>
-  <a href="https://github.com/nckhemanth0/leetcode-sync"><img src="https://img.shields.io/badge/Solutions-leetcode--sync-1f2937?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/nckhemanth/leetcode-sync"><img src="https://img.shields.io/badge/Solutions-leetcode--sync-1f2937?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/pacman-contribution-graph-dark.svg"/>
   </picture>
 </div>
 
