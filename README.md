@@ -196,7 +196,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <summary><b>🏢 EchoStar / Dish Networks &nbsp;·&nbsp; Software Systems Engineering Intern &nbsp;·&nbsp; Jun–Aug 2025 · Denver, CO</b></summary>
 <br/>
 
-> `Java` `Spring Boot` `React` `AWS` `S3` `Lambda` `SQS` `EventBridge` `PostgreSQL` `Amazon Bedrock` `Terraform` `IaC`
+> `Java` `Spring Boot` `TypeScript` `JavaScript` `React` `AWS` `S3` `Lambda` `SQS` `EventBridge` `PostgreSQL` `Amazon Bedrock` `Terraform` `IaC`
 
 - 🚀 Built secure cloud-native event-driven drone data pipeline (AWS Transfer Family + S3 + Lambda + EventBridge + SQS) — **99.9% reliability**, **97% cost reduction**
 - 🌐 Created Cesium 3D Tiles viewer in React to visualize photogrammetry results with Spring Boot microservices exposing 3D mapping data
@@ -209,7 +209,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <summary><b>🏢 Paytm / One97 Communications &nbsp;·&nbsp; Software Development Engineer &nbsp;·&nbsp; Jan 2022–Jun 2024 · Noida, India</b></summary>
 <br/>
 
-> `Java` `Spring Boot` `gRPC` `GraphQL` `Kafka` `Redis` `Oracle` `PostgreSQL` `Hibernate` `Docker` `Kubernetes` `Jenkins` `GitHub Actions`
+> `Java` `Spring Boot` `TypeScript` `JavaScript` `gRPC` `GraphQL` `Kafka` `Redis` `Oracle` `PostgreSQL` `Hibernate` `Docker` `Kubernetes` `Jenkins` `GitHub Actions`
 
 - 📦 Led backend for ONDC order/cart services — scaled **0 → 1M+ orders**, **5,000+** merchants, **50,000+** warehouses
 - ⚡ Multicart + Redis caching + Kafka async pipelines — cut API latency **40%** and cart error rates
