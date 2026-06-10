@@ -210,10 +210,9 @@ Scaled ONDC order/cart services from **0 → 1M+ orders** across **5K+ merchants
 <td valign="top" width="50%">
 
 ### 🩺 CliniPulse AI
-Full-stack healthcare **RAG** and workflow application on hybrid cloud.
-> TypeScript · Next.js · React · Python · FastAPI · ChromaDB · Azure Blob · Docker
+> **Full-Stack Engineering** · **RAG / GenAI** · **Workflow Automation** · **Cloud**
 
-Built Next.js + FastAPI platform with ChromaDB retrieval and Azure Blob storage — cut report workflow **30 min → under 2 min**.
+Built a healthcare workflow platform with retrieval-augmented generation and hybrid cloud storage — cut report turnaround from **30 min → under 2 min**.
 
 [`Live Demo`](https://openinapp.link/cokp2)
 
@@ -221,10 +220,9 @@ Built Next.js + FastAPI platform with ChromaDB retrieval and Azure Blob storage 
 <td valign="top" width="50%">
 
 ### 🧬 LLM Fine-Tuning Factory
-Multi-domain fine-tuning pipeline (Full · DPO · LoRA · QLoRA).
-> Python · PyTorch · PEFT · FastAPI · Docker
+> **ML Engineering** · **Model Serving** · **API Design** · **Cost Optimization**
 
-Served 5 domain models via OpenAI-compatible API — **70% cheaper** than proprietary APIs.
+Engineered a multi-domain fine-tuning and serving pipeline — **70% cheaper** than proprietary APIs across **5 domain models**.
 
 [`Live Demo`](https://github.com/nckhemanth0/llm-finetune-factory)
 
@@ -234,10 +232,9 @@ Served 5 domain models via OpenAI-compatible API — **70% cheaper** than propri
 <td valign="top" width="50%">
 
 ### 🧑‍💼 RecruitFlow ATS Portal
-Full-stack recruiting portal with candidate pipelines and recruiter dashboards.
-> Next.js · React · TypeScript · FastAPI · PostgreSQL · REST APIs · Docker
+> **Full-Stack Engineering** · **API Design** · **Data Modeling** · **Pipeline UX**
 
-REST APIs with validation, pagination, and filtering — improved list and audit retrieval latency by **~30%**.
+Built a recruiting portal with candidate pipelines and recruiter dashboards — validated, paginated APIs cut list and audit retrieval latency by **~30%**.
 
 [`GitHub`](https://github.com/nckhemanth0/recruit-flow)
 
@@ -245,10 +242,9 @@ REST APIs with validation, pagination, and filtering — improved list and audit
 <td valign="top" width="50%">
 
 ### 🧳 A2A Travel Orchestrator
-Multi-tenant multi-agent system over the A2A protocol.
-> Python · LangChain · LangGraph · CrewAI · AutoGen
+> **Multi-Agent Systems** · **Autonomous Orchestration** · **Protocol Design**
 
-Autonomous budget-vs-experience negotiation — **90% less** itinerary planning time.
+Built a multi-tenant agent system for autonomous budget-vs-experience negotiation — **90% less** itinerary planning time.
 
 [`Live Demo`](https://openinapp.link/jrpzr)
 
@@ -258,9 +254,9 @@ Autonomous budget-vs-experience negotiation — **90% less** itinerary planning 
 
 <div align="center">
 
-🔋 **NSF Smart Grid Telemetry** — Node.js · React · D3.js · TimescaleDB · WebSockets · Redis · **75K+ records/min**, sub-500ms latency · [`Website`](https://www.seed-grid.org/)
+🔋 **NSF Smart Grid Telemetry** — Real-time telemetry platform processing **75K+ records/min** at sub-500ms latency · [`Website`](https://www.seed-grid.org/)
 &nbsp;&nbsp;·&nbsp;&nbsp;
-📬 **Subscription Tracker MCP** — Python · MySQL · Gmail API · Claude MCP · **90%+** extraction accuracy · [`GitHub`](https://github.com/nckhemanth0/subscription-tracker-mcp)
+📬 **Subscription Tracker MCP** — Automated subscription extraction agent with **90%+** accuracy · [`GitHub`](https://github.com/nckhemanth0/subscription-tracker-mcp)
 
 </div>
 
