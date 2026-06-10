@@ -291,8 +291,7 @@ Autonomous budget-vs-experience negotiation — **90% less** itinerary planning 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nckhemanth0&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nckhemanth0&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nckhemanth0&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_radius=12&langs_count=8&hide=jupyter%20notebook,php,c,shell,dockerfile,html,css,makefile" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth0&theme=github_dark&utcOffset=-5" height="160"/>
 </div>
 
