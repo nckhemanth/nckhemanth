@@ -6,14 +6,14 @@ Software engineer focused on distributed systems, backend platforms, and applied
 
 ### 🔭 Currently
 - MS CS at **NYU Tandon** (GPA 3.96)
-- Building full-stack and AI projects across Java, Python, and cloud
+- Building full-stack and AI projects across **Python**, **TypeScript**, **JavaScript**, Java, and cloud
 
 ### 💼 Experience
-- **Dish Networks** — SWE Intern (Summer 2025) · Spring Boot, React, AWS, Amazon Bedrock
+- **Dish Networks** — SWE Intern (Summer 2025) · Spring Boot, React, AWS, GenAI, Amazon Bedrock
 - **Paytm / One97** — Software Engineer (2022–2024) · Java, Spring Boot, Kafka, gRPC, GraphQL, AWS
 
 ### 🛠 Tech Stack
-`Java` `Python` `TypeScript` `Spring Boot` `Node.js` `FastAPI` `React` `Kafka` `Redis` `PostgreSQL` `AWS` `Docker` `Kubernetes` `PyTorch` `LangChain` `RAG`
+`Python` `TypeScript` `JavaScript` `Java` `Spring Boot` `Node.js` `FastAPI` `React` `Kafka` `Redis` `PostgreSQL` `AWS` `Docker` `Kubernetes` `PyTorch` `LangChain` `RAG`
 
 ### 🚀 Featured Projects
 
