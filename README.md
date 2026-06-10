@@ -282,7 +282,7 @@ Autonomous budget-vs-experience negotiation — **90% less** itinerary planning 
 ## &nbsp;📊&nbsp; GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nckhemanth0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nckhemanth0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&border_radius=12&hide=stars,issues,contribs" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nckhemanth0&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=a855f7&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e&border_radius=12" height="170"/>
 </div>
 
