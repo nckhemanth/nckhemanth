@@ -163,7 +163,7 @@ Hemanth Reddy:
 <summary><b>🎓&nbsp; New York University &nbsp;—&nbsp; Software Developer, GRA (Smart Grid) &nbsp;·&nbsp; Dec 2025 – May 2026 · New York, NY</b></summary>
 <br/>
 
-> **Full-Stack Engineering** · **System Design** · **Real-Time Systems** · **UI/UX** · **TDD** &nbsp;—&nbsp; `Java` · `React` · `TypeScript` · `WebSockets` · `Time-Series Data`
+> **Full-Stack Engineering** · **System Design** · **Real-Time Systems** · **UI/UX** · **TDD** &nbsp;—&nbsp; `TypeScript` · `React` · `Java` · `WebSockets` · `Time-Series Data`
 
 Built **SEED** — a full-stack real-time grid platform with a Java/WebSocket streaming backend, REST microservices, **TypeScript + D3.js** visualizations across **50+ nodes**, and **TimescaleDB** time-series storage processing **75K+ records/min**, developed end-to-end with strict **TDD**.
 
@@ -183,7 +183,7 @@ Built a Python **ETL** pipeline normalizing **85K+ records** from the MobyGames 
 <summary><b>🛰️&nbsp; EchoStar / Dish Networks &nbsp;—&nbsp; Software Systems Engineering Intern &nbsp;·&nbsp; Jun – Aug 2025 · Denver, CO</b></summary>
 <br/>
 
-> **Cloud Engineering** · **Event-Driven Architecture** · **GenAI** · **IaC / Security** &nbsp;—&nbsp; `Java` · `AWS` · `React` · `TypeScript` · `Amazon Bedrock`
+> **Cloud Engineering** · **Event-Driven Architecture** · **GenAI** · **IaC / Security** &nbsp;—&nbsp; `AWS` · `TypeScript` · `React` · `Amazon Bedrock` · `Java`
 
 Built a secure event-driven drone-data pipeline (AWS Transfer Family · S3 · Lambda · EventBridge · SQS) achieving **99.9% reliability** and **97% projected cost reduction**, paired with a React/Cesium 3D viewer and an **Amazon Bedrock** GenAI incident summarizer that cut response time **40%** — productionized with Terraform IaC and least-privilege IAM.
 
@@ -193,7 +193,7 @@ Built a secure event-driven drone-data pipeline (AWS Transfer Family · S3 · La
 <summary><b>🏢&nbsp; Paytm / One97 Communications &nbsp;—&nbsp; Software Development Engineer &nbsp;·&nbsp; Jan 2022 – Jun 2024 · Noida, India</b></summary>
 <br/>
 
-> **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Java` · `Kafka` · `Redis` · `Kubernetes`
+> **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Kafka` · `Redis` · `Kubernetes` · `Java`
 
 Scaled ONDC order/cart services from **0 → 1M+ orders** across **5K+ merchants** using Java microservices, Kafka async workflows, and Redis caching (−40% latency), shipped REST/gRPC/GraphQL APIs with OAuth, automated zero-downtime CI/CD for **10+ services** (−60% support tickets, −40% false alerts, **2× faster** RCA).
 
