@@ -25,11 +25,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About
 
-<div align="right">
-  <video width="280" autoplay muted loop playsinline>
-    <source src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-flying.mp4" type="video/mp4"/>
-  </video>
-</div>
+<img align="right" width="280" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-flying.gif" alt="Phoenix"/>
 
 ```yaml
 Hemanth Reddy:
