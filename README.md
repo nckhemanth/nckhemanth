@@ -25,7 +25,9 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-flying.gif" alt="Phoenix"/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
 ```yaml
 Hemanth Reddy:
@@ -40,7 +42,12 @@ Hemanth Reddy:
   ethos:     clean architecture · TDD · observability at scale
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" align="right" width="32%">
+<img width="200" height="205" src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/main/assets/phoenix-flying.gif" alt="Phoenix"/>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=2" width="100%"/>
 
