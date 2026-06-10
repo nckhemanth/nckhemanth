@@ -11,11 +11,11 @@ Repo: `nckhemanth/nckhemanth` · **Must stay public** (renders on github.com/nck
 
 ## Before editing
 
-Read parent hub: `../context/common/CHANGELOG.md` (if workspace cloned as siblings).
+Read workspace hub (if cloned as siblings): `workspace/context/repos/nckhemanth/CONTEXT.md` + `CHANGELOG.md`
 
 ## After editing
 
-- Append profile changes to hub `context/common/CHANGELOG.md`
+- Append profile changes to `workspace/context/repos/nckhemanth/CHANGELOG.md`
 - Commit only when user asks
 - No `cursoragent` in commit messages
 
