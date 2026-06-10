@@ -4,20 +4,14 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hemanth-reddy-a22a931a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:nckhemanthreddy7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/nckhemanth0">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/hemanth-reddy-a22a931a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nckhemanthreddy7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/nckhemanth0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Open%20to%20Work-%2300C851?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=NYU+MS+CS+%7C+GPA+3.97%2F4.0;2%2B+Years+Industry+Experience+%40+Paytm;Scaled+ONDC+Platform+to+1M%2B+Orders;Built+GenAI+%2B+RAG+Systems+%40+Dish+Networks;Full-Stack+%7C+Backend+%7C+Distributed+Systems;Actively+Seeking+SWE+Roles+%F0%9F%9A%80)](https://github.com/nckhemanth0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=NYU+MS+CS+%7C+GPA+3.97%2F4.0+%F0%9F%8E%93;2%2B+yrs+%40+Paytm+%E2%86%92+1M%2B+Orders+Scaled+%F0%9F%9A%80;GenAI+%2B+RAG+%40+Dish+Networks+%F0%9F%A4%96;Full-Stack+%7C+Backend+%7C+Distributed+Systems;Actively+Seeking+SWE+Roles+%F0%9F%91%80)](https://github.com/nckhemanth0)
 
 <img src="https://komarev.com/ghpvc/?username=nckhemanth0&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
 
@@ -25,34 +19,38 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> About Me
 
 ```yaml
-name: Hemanth Reddy
-location: New York City, NY
+name:       Hemanth Reddy
+location:   New York City, NY
 education:
   - NYU Tandon — MS Computer Science (GPA 3.97)
   - IIT Dharwad  — B.Tech Computer Science (GPA 3.7)
 experience:
   - EchoStar / Dish Networks (SWE Intern, 2025)
   - Paytm / One97 Communications (SDE, 2022–2024)
-seeking: Full-time SWE · Backend · Full-Stack · GenAI
-open_to_relocate: true
-response_time: < 24 hours
-currently: turning caffeine into scalable systems ☕→🚀
+seeking:    Full-time SWE · Backend · Full-Stack · GenAI
+relocate:   true
+available:  immediately
+fun_fact:   turning caffeine into distributed systems ☕→⚡
 ```
 
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default" alt="quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 💥 Impact at a Glance
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:302b63&height=48&text=💥+Impact+at+a+Glance&fontColor=ffffff&fontSize=22&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -70,7 +68,30 @@ currently: turning caffeine into scalable systems ☕→🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🛠️ Tech Arsenal
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=48&text=🛠️+Tech+Arsenal&fontColor=a78bfa&fontSize=22&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -133,7 +154,11 @@ currently: turning caffeine into scalable systems ☕→🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 💼 Experience
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:0d2137&height=48&text=💼+Experience&fontColor=61dafb&fontSize=22&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <details open>
 <summary><b>🏢 EchoStar / Dish Networks &nbsp;·&nbsp; Systems Engineering Intern &nbsp;·&nbsp; Jun–Aug 2025 · Denver, CO</b></summary>
@@ -163,40 +188,52 @@ currently: turning caffeine into scalable systems ☕→🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:3b0764&height=48&text=🚀+Featured+Projects&fontColor=e879f9&fontSize=22&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-| 🏗️ Project | 🛠️ Stack | 🔗 Link | ✨ Key Result |
-|:-----------|:---------|:--------|:-------------|
-| **CliniPulse AI** | TypeScript · Next.js · React · Python · FastAPI · ChromaDB · Azure | [🌐 Demo](https://openinapp.link/cokp2) | Report time **30 min → 2 min** |
-| **RecruitFlow ATS** | Next.js · React · TypeScript · FastAPI · PostgreSQL · Docker | [💻 GitHub](https://github.com/nckhemanth0/recruit-flow) | Search latency **~30% faster** |
-| **Subscription Tracker MCP** | Python · MySQL · Gmail API · Claude MCP SDK | [💻 GitHub](https://github.com/nckhemanth0/subscription-tracker-mcp) | **90%+** extraction accuracy · in Glama ecosystem |
-| **LLM Fine-Tuning Factory** | Python · PyTorch · LoRA · QLoRA · FastAPI · Docker | [💻 GitHub](https://github.com/nckhemanth0/llm-finetune-factory) | **70% cost reduction** vs. full API fine-tuning |
-| **A2A Travel Orchestrator** | Python · LangChain · CrewAI · AutoGen · Streamlit | [🌐 Demo](https://openinapp.link/jrpzr) | **40%** less manual planning time |
-| **NSF Smart Grid Telemetry** | Node.js · React · D3.js · TimescaleDB · WebSockets · Redis | [🌐 Website](https://www.seed-grid.org/) | **75k+** records/min · sub-500ms latency |
+| 🏗️ Project | 🛠️ Stack | 🔗 | ✨ Result |
+|:-----------|:---------|:---|:---------|
+| **CliniPulse AI** | TypeScript · Next.js · Python · FastAPI · ChromaDB · Azure | [🌐 Demo](https://openinapp.link/cokp2) | Report time **30 min → 2 min** |
+| **RecruitFlow ATS** | Next.js · TypeScript · FastAPI · PostgreSQL · Docker | [💻 GitHub](https://github.com/nckhemanth0/recruit-flow) | Search latency **~30% faster** |
+| **Subscription Tracker MCP** | Python · MySQL · Gmail API · Claude MCP SDK | [💻 GitHub](https://github.com/nckhemanth0/subscription-tracker-mcp) | **90%+** accuracy · Glama ecosystem |
+| **LLM Fine-Tuning Factory** | Python · PyTorch · LoRA · QLoRA · FastAPI · Docker | [💻 GitHub](https://github.com/nckhemanth0/llm-finetune-factory) | **70% cost reduction** vs full fine-tuning |
+| **A2A Travel Orchestrator** | Python · LangChain · CrewAI · AutoGen · Streamlit | [🌐 Demo](https://openinapp.link/jrpzr) | **40%** less manual planning |
+| **NSF Smart Grid Telemetry** | Node.js · React · D3.js · TimescaleDB · WebSockets · Redis | [🌐 Website](https://www.seed-grid.org/) | **75k+** records/min · <500ms latency |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 Trophy Case
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d0a,100:14532d&height=48&text=🏆+Trophy+Case&fontColor=4ade80&fontSize=22&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nckhemanth0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Followers,Repositories,PullRequest,Issues,Reviews"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nckhemanth0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,100:1a3a8a&height=48&text=📊+GitHub+Stats&fontColor=93c5fd&fontSize=22&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nckhemanth0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nckhemanth0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nckhemanth0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nckhemanth0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nckhemanth0&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nckhemanth0&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="175"/>
 </div>
 
 <div align="center">
@@ -213,7 +250,13 @@ currently: turning caffeine into scalable systems ☕→🚀
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth0&theme=tokyonight&utcOffset=-5" height="165"/>
 </div>
 
-### 🐍 Watch My Contributions Get Eaten
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,100:431407&height=48&text=🐍+Contribution+Snake&fontColor=fb923c&fontSize=22&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nckhemanth0/nckhemanth0/output/github-contribution-grid-snake-dark.svg"/>
@@ -221,7 +264,11 @@ currently: turning caffeine into scalable systems ☕→🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏅 Achievements
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1c00,100:3d3d00&height=48&text=🏅+Achievements&fontColor=fbbf24&fontSize=22&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -237,9 +284,11 @@ currently: turning caffeine into scalable systems ☕→🚀
 
 <div align="center">
 
-## 📬 Let's Build Something Great
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=48&text=📬+Let's+Build+Something+Great&fontColor=a78bfa&fontSize=22&animation=twinkling" width="100%"/>
 
-### I'm actively looking for **Full-Time SWE Roles** — Backend · Full-Stack · GenAI
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%7C+Full-Stack+%7C+GenAI+%7C+Open+to+Relocate;Fast+responder+%E2%80%94+reply+within+24+hours+%E2%9A%A1;Let's+build+something+great+together+%F0%9F%9A%80)](https://github.com/nckhemanth0)
 
 <br/>
 
@@ -248,10 +297,8 @@ currently: turning caffeine into scalable systems ☕→🚀
 
 📍 **New York City** &nbsp;|&nbsp; 🎓 **NYU · IIT Dharwad** &nbsp;|&nbsp; ✈️ **Open to Relocate**
 
-*Fast responder — I reply within 24 hours!*
-
 <br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=a78bfa&fontSize=22&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=a78bfa&fontSize=22&fontAlignY=70&animation=twinkling" width="100%"/>
