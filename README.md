@@ -28,7 +28,7 @@ Software engineer focused on distributed systems, backend platforms, and applied
 ### 📫 Connect
 - 📧 nckhemanth0@gmail.com
 - 🎓 NYU · IIT Dharwad
-- 📍 Brooklyn, NY
+- 📍 New York City
 
 ---
 
