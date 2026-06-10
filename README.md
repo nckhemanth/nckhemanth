@@ -336,21 +336,23 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 </div>
 
 <details>
-<summary><sub>Tech index</sub></summary>
-
-<sub>
+<summary><b>Tech index</b></summary>
+<br/>
 
 Hemanth Reddy — Software Engineer based in New York City. Backend Engineer, Distributed Systems Engineer, Full-Stack Developer, Cloud Engineer, and AI / Machine Learning Engineer. NYU MS Computer Science graduate (GPA 3.97) and IIT Dharwad B.Tech CSE alumnus, with experience at Paytm, EchoStar / DISH Network, and New York University.
 
 **Languages:** Java, Python, TypeScript, JavaScript, Go, C++, SQL.
+
 **Backend & Distributed Systems:** Spring Boot, microservices, REST APIs, gRPC, GraphQL, Apache Kafka, Redis, Kubernetes, Docker, event-driven architecture, CI/CD, observability.
+
 **Cloud & DevOps:** AWS (Lambda, S3, SQS, EventBridge, Transfer Family), Azure, Terraform, infrastructure as code.
+
 **AI / ML Engineering:** Retrieval-Augmented Generation (RAG), LLM fine-tuning (LoRA, QLoRA, DPO), PyTorch, LangChain, LangGraph, multi-agent systems, Amazon Bedrock, NLP.
+
 **Frontend & Data:** React, Next.js, D3.js, WebSockets, PostgreSQL, MySQL, TimescaleDB, ChromaDB.
 
 Open to full-time Software Engineer, Backend Engineer, Distributed Systems Engineer, Full-Stack Engineer, and AI Engineer roles. Open to relocation.
 
-</sub>
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,60:312e81,100:0b1120&height=120&section=footer" width="100%"/>
