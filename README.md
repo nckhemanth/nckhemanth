@@ -222,10 +222,10 @@ Hemanth Reddy:
 <td valign="top" width="50%">
 
 ### 🩺 CliniPulse AI
-HIPAA-compliant medical **RAG** platform on hybrid cloud.
-> Spring Boot · Spring AI · React · ChromaDB · Azure
+Full-stack healthcare **RAG** and workflow application on hybrid cloud.
+> TypeScript · Next.js · React · Python · FastAPI · ChromaDB · Azure Blob · Docker
 
-Cut report generation **30 min → under 2 min**; Llama-70B inference on Azure H100 with AES-256 PHI storage.
+Built Next.js + FastAPI platform with ChromaDB retrieval and Azure Blob storage — cut report workflow **30 min → under 2 min**.
 
 [`Live Demo`](https://openinapp.link/cokp2)
 
@@ -245,11 +245,11 @@ Served 5 domain models via OpenAI-compatible API — **70% cheaper** than propri
 <tr>
 <td valign="top" width="50%">
 
-### 🧑‍💼 ATS Recruiting Portal
-Layered Spring Boot backend with JWT RBAC.
-> Spring Boot 3 · Spring Security · JPA · PostgreSQL · Elasticsearch
+### 🧑‍💼 RecruitFlow ATS Portal
+Full-stack recruiting portal with candidate pipelines and recruiter dashboards.
+> Next.js · React · TypeScript · FastAPI · PostgreSQL · REST APIs · Docker
 
-Pageable + JPA Specifications + batch fetching killed N+1 — **~60% lower** list latency.
+REST APIs with validation, pagination, and filtering — improved list and audit retrieval latency by **~30%**.
 
 [`GitHub`](https://github.com/nckhemanth0/recruit-flow)
 
