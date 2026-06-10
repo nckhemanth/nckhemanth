@@ -275,8 +275,8 @@ Built a multi-tenant agent system for autonomous budget-vs-experience negotiatio
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nckhemanth0&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_radius=12&langs_count=8&hide=jupyter%20notebook,php,c,shell,dockerfile,html,css,makefile" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth0&theme=github_dark&utcOffset=-5" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nckhemanth0&layout=donut-vertical&hide_border=true&theme=transparent&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&border_radius=12&langs_count=6&hide=jupyter%20notebook,php,c,shell,dockerfile,html,css,makefile,vue,tsql,ejs&custom_title=Core%20Languages" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth0&theme=midnight_purple&utcOffset=-5" height="200"/>
 </div>
 
 <div align="center">
