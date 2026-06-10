@@ -168,7 +168,7 @@ fun_fact:   turning caffeine into distributed systems ☕→⚡
 <br/>
 
 <details open>
-<summary><b>🎓 New York University &nbsp;·&nbsp; Software Developer — GRA (Smart Grid) &nbsp;·&nbsp; Dec 2024–May 2026 · New York, NY</b></summary>
+<summary><b>🎓 New York University &nbsp;·&nbsp; Software Developer — GRA (Smart Grid) &nbsp;·&nbsp; Dec 2025–May 2026 · New York, NY</b></summary>
 <br/>
 
 > `Java` `Spring Boot` `JavaScript` `TypeScript` `React` `Next.js` `D3.js` `WebSocket` `REST APIs` `PostgreSQL` `TimescaleDB` `Spring Data JPA` `JUnit` `TDD`
