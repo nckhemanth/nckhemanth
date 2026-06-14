@@ -336,7 +336,7 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-reddy-a22a931a0/)
 
-<sub>📍 New York City &nbsp;·&nbsp; 🎓 NYU · IIT Dharwad &nbsp;·&nbsp; ✈️ Open to relocate &nbsp;·&nbsp; ⚡ Replies within 24 hours</sub>
+<sub>📍 New York City &nbsp;·&nbsp; 🎓 NYU · IIT Dharwad &nbsp;·&nbsp; ✈️ Open to relocate &nbsp;·&nbsp; ⚡ Replies within 12 hours</sub>
 
 </div>
 
