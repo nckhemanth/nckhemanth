@@ -232,7 +232,7 @@ Built a healthcare workflow platform with retrieval-augmented generation and hyb
 ### 🧬 LLM Fine-Tuning Factory
 > **ML Engineering** · **Model Serving** · **API Design** · **Cost Optimization**
 
-Engineered a multi-domain fine-tuning and serving pipeline — **70% cheaper** than proprietary APIs across **5 domain models**.
+Engineered a multi-domain fine-tuning and serving pipeline — **70% cheaper** than proprietary API's across **5 domain models**.
 
 [`Live Demo`](https://github.com/nckhemanth/llm-finetune-factory)
 
