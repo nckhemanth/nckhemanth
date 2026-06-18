@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/nckhemanth">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:312e81,100:6d28d9&height=260&section=header&text=Hemanth%20Reddy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Engineering&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:312e81,100:6d28d9&height=260&section=header&text=Hemanth%20Reddy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Cloud%20%C2%B7%20GenAI&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
 </a>
 
 <div align="center">
@@ -10,11 +10,11 @@
 <a href="https://github.com/nckhemanth"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://nckhemanth.cloud"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=8b5cf6"/></a>&nbsp;
 <a href="https://leetcode.com/u/__Hemanth_Reddy__/"><img src="https://img.shields.io/badge/LeetCode-1f2937?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Open_to_Work-10b981?style=flat-square&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_to_New_Grad_SWE-10b981?style=flat-square&logo=briefcase&logoColor=white"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=NYU+MS+Computer+Science+%C2%B7+GPA+3.97%2F4.0;1.5+yrs+Software+Developer+%28R%26D%29+%40+NYU+%C2%B7+New+York;2.5%2B+yrs+%40+Paytm+%E2%86%92+1M%2B+Orders+Scaled;Event-driven+AWS+pipelines+%40+EchoStar;Backend+%C2%B7+Distributed+Systems+%C2%B7+Cloud+%C2%B7+AI+Engineering)](https://github.com/nckhemanth)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=NYU+MS+Computer+%26+Information+Sciences+%C2%B7+3.97%2F4;2%2B+yrs+SDE+%40+Paytm+%E2%86%92+1M%2B+Orders;EchoStar+Intern+%C2%B7+AWS+%2B+Bedrock+GenAI;Backend+%C2%B7+Microservices+%C2%B7+Cloud+%C2%B7+RAG)](https://github.com/nckhemanth)
 
 <img src="https://komarev.com/ghpvc/?username=nckhemanth&label=Profile%20views&color=8b5cf6&style=flat-square&base=1000"/>
 
@@ -34,14 +34,14 @@
 
 ```yaml
 Hemanth Reddy:
-  role:      Software Engineer
+  role:      New Grad Software Engineer
   based_in:  New York City, NY
   education:
-    - NYU — MS Computer Science · GPA 3.97
-    - IIT Dharwad — B.Tech CSE · GPA 3.70
-  focus:     [ Backend, Distributed Systems, Cloud, AI Engineering ]
-  shipped:   1M+ orders · 99.9% reliable pipelines · RAG systems
-  seeking:   Full-time SWE roles · open to relocate
+    - NYU — MS Computer and Information Sciences · CGPA 3.97/4
+    - IIT Dharwad — B.Tech CSE · CGPA 3.7/4
+  focus:     [ Backend, Distributed Systems, Cloud, GenAI ]
+  shipped:   1M+ orders · 99.9% reliable pipelines · HIPAA RAG systems
+  seeking:   New Grad SWE roles · open to relocate
   ethos:     clean architecture · TDD · observability at scale
 ```
 
@@ -62,15 +62,15 @@ Hemanth Reddy:
 <table>
   <tr>
     <td align="center" width="25%"><h2>1M+</h2><sub>Orders scaled<br/><b>ONDC @ Paytm</b></sub></td>
-    <td align="center" width="25%"><h2>99.9%</h2><sub>Pipeline reliability<br/><b>AWS @ EchoStar</b></sub></td>
-    <td align="center" width="25%"><h2>97%</h2><sub>Projected cost cut<br/><b>Cloud architecture</b></sub></td>
+    <td align="center" width="25%"><h2>99.9%</h2><sub>Upload reliability<br/><b>AWS @ EchoStar</b></sub></td>
+    <td align="center" width="25%"><h2>97%</h2><sub>Projected cost cut<br/><b>$7.3M/yr pipeline</b></sub></td>
     <td align="center" width="25%"><h2>40%</h2><sub>Latency reduction<br/><b>Redis + Kafka</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><h2>60%</h2><sub>Fewer support tickets<br/><b>Merchant reporting</b></sub></td>
+    <td align="center"><h2>60%</h2><sub>Fewer support tickets<br/><b>Catalog reporting</b></sub></td>
     <td align="center"><h2>40%</h2><sub>Faster incident RCA<br/><b>Bedrock GenAI</b></sub></td>
-    <td align="center"><h2>15%</h2><sub>Faster releases<br/><b>Docker / K8s CI/CD</b></sub></td>
-    <td align="center"><h2>85K+</h2><sub>Records normalized<br/><b>ETL @ NYU</b></sub></td>
+    <td align="center"><h2>75%</h2><sub>Cart error reduction<br/><b>SQL + deadlock fixes</b></sub></td>
+    <td align="center"><h2>95%+</h2><sub>Code coverage<br/><b>TDD / BDD @ Paytm</b></sub></td>
   </tr>
 </table>
 
@@ -108,27 +108,21 @@ Hemanth Reddy:
 ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=4B8BBE)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
 ![C++](https://img.shields.io/badge/C++-1f2937?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-1f2937?style=flat-square&logo=postgresql&logoColor=4479A1)
+![Shell](https://img.shields.io/badge/Shell-1f2937?style=flat-square&logo=gnubash&logoColor=ffffff)
 
-**Backend & APIs**
+**Frameworks & Distributed**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f2937?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-1f2937?style=flat-square&logo=hibernate&logoColor=59666C)
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?style=flat-square&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-1f2937?style=flat-square&logo=graphql&logoColor=E10098)
 ![gRPC](https://img.shields.io/badge/gRPC-1f2937?style=flat-square&logo=google&logoColor=4285F4)
-![WebSocket](https://img.shields.io/badge/WebSocket-1f2937?style=flat-square&logo=socketdotio&logoColor=ffffff)
 ![Kafka](https://img.shields.io/badge/Kafka-1f2937?style=flat-square&logo=apachekafka&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/Redis-1f2937?style=flat-square&logo=redis&logoColor=DC382D)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![D3.js](https://img.shields.io/badge/D3.js-1f2937?style=flat-square&logo=d3dotjs&logoColor=F9A03C)
-![Streamlit](https://img.shields.io/badge/Streamlit-1f2937?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![WebSockets](https://img.shields.io/badge/WebSockets-1f2937?style=flat-square&logo=socketdotio&logoColor=ffffff)
 
 </td>
 <td valign="top" width="50%">
@@ -136,30 +130,31 @@ Hemanth Reddy:
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![LLaMA 3](https://img.shields.io/badge/LLaMA_3-1f2937?style=flat-square&logo=meta&logoColor=0081FB)
 ![LangChain](https://img.shields.io/badge/LangChain-1f2937?style=flat-square&logo=langchain&logoColor=ffffff)
 ![Amazon Bedrock](https://img.shields.io/badge/Bedrock-1f2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![RAG](https://img.shields.io/badge/RAG-1f2937?style=flat-square&logo=openai&logoColor=ffffff)
-![MCP](https://img.shields.io/badge/MCP-1f2937?style=flat-square&logo=anthropic&logoColor=ffffff)
 ![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-1f2937?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-1f2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-1f2937?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![GCP](https://img.shields.io/badge/GCP-1f2937?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1f2937?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Terraform](https://img.shields.io/badge/Terraform-1f2937?style=flat-square&logo=terraform&logoColor=7B42BC)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-1f2937?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Jenkins](https://img.shields.io/badge/Jenkins-1f2937?style=flat-square&logo=jenkins&logoColor=D24939)
+![Linux](https://img.shields.io/badge/Linux-1f2937?style=flat-square&logo=linux&logoColor=FCC624)
 
-**Databases**
+**Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1)
-![Oracle](https://img.shields.io/badge/Oracle-1f2937?style=flat-square&logo=oracle&logoColor=F80000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1f2937?style=flat-square&logo=elasticsearch&logoColor=005571)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-1f2937?style=flat-square&logo=timescale&logoColor=FDB515)
+![JUnit](https://img.shields.io/badge/JUnit-1f2937?style=flat-square&logo=junit5&logoColor=25A162)
+![Prometheus](https://img.shields.io/badge/Prometheus-1f2937?style=flat-square&logo=prometheus&logoColor=E6522C)
 
 </td>
 </tr>
@@ -171,42 +166,28 @@ Hemanth Reddy:
 ## &nbsp;💼&nbsp; Experience
 
 <details open>
-<summary><b>🎓&nbsp; New York University &nbsp;—&nbsp; Software Developer, GRA (Smart Grid) &nbsp;·&nbsp; Dec 2025 – May 2026 · New York, NY</b></summary>
+<summary><b>🛰️&nbsp; EchoStar &nbsp;—&nbsp; Software Systems Engineering Intern &nbsp;·&nbsp; Jun – Aug 2025 · Denver, CO</b></summary>
 <br/>
 
-> **Full-Stack Engineering** · **System Design** · **Real-Time Systems** · **UI/UX** · **TDD** &nbsp;—&nbsp; `TypeScript` · `React` · `Java` · `WebSockets` · `Time-Series Data`
+> **Cloud Engineering** · **Event-Driven Architecture** · **GenAI** · **Full-Stack** &nbsp;—&nbsp; `Java` · `Spring Boot` · `AWS` · `React` · `TypeScript` · `PostgreSQL` · `Bedrock`
 
-Built **SEED** — a full-stack real-time grid visualization platform with a streaming backend, REST microservices, and interactive dashboards spanning **50+ nodes**, with high-throughput time-series storage processing **75K+ records/min**, developed end-to-end with strict **TDD**.
+- Architected an event-driven, SFTP-based drone data ingestion pipeline on AWS (Transfer Family, S3, Lambda, EventBridge, SQS) via IaC — **99.9%** upload reliability and **97%** projected cost reduction ($7.3M/yr).
+- Automated 2D-to-3D photogrammetry workflows and delivered a full-stack Cesium 3D Tiles viewer with React, TypeScript, Spring Boot, and PostgreSQL.
+- Engineered a GenAI summarizer using Amazon Bedrock that reduced incident response time by **40%**.
 
 </details>
 
 <details open>
-<summary><b>🎓&nbsp; New York University &nbsp;—&nbsp; Software Developer, GRA (NLP / ML Research) &nbsp;·&nbsp; Sep 2024 – May 2025 · New York, NY</b></summary>
+<summary><b>🏢&nbsp; Paytm &nbsp;—&nbsp; Software Development Engineer &nbsp;·&nbsp; Jan 2022 – Jun 2024 · Noida, India</b></summary>
 <br/>
 
-> **Applied ML / NLP** · **Data Engineering** · **Research** &nbsp;—&nbsp; `Python` · `ETL Pipelines` · `scikit-learn` · `PostgreSQL`
+> **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Java` · `Spring Boot` · `Kafka` · `Redis` · `Kubernetes`
 
-Built an **ETL** pipeline normalizing **85K+ records** from the MobyGames API, then applied a multi-model **NLP pipeline** on Amazon reviews to surface **antitrust signals** — persisted to a relational store for downstream research analysis.
-
-</details>
-
-<details open>
-<summary><b>🛰️&nbsp; EchoStar / Dish Networks &nbsp;—&nbsp; Software Systems Engineering Intern &nbsp;·&nbsp; Jun – Aug 2025 · Denver, CO</b></summary>
-<br/>
-
-> **Cloud Engineering** · **Event-Driven Architecture** · **AI Engineering** · **IaC / Security** &nbsp;—&nbsp; `AWS` · `TypeScript` · `React` · `Amazon Bedrock` · `Java`
-
-Engineered a secure, event-driven drone-data ingestion pipeline achieving **99.9% reliability** and **97% projected cost reduction**, paired with a **3D geospatial viewer** and a **GenAI incident summarizer** cutting response time by **40%** — fully productionized with infrastructure-as-code and least-privilege security policies.
-
-</details>
-
-<details open>
-<summary><b>🏢&nbsp; Paytm / One97 Communications &nbsp;—&nbsp; Software Development Engineer &nbsp;·&nbsp; Jan 2022 – Jun 2024 · Noida, India</b></summary>
-<br/>
-
-> **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Kafka` · `Redis` · `Kubernetes` · `Java`
-
-Scaled ONDC order/cart services from **0 → 1M+ orders** across **5K+ merchants**, cutting latency **40%** via async event-driven workflows and distributed caching; shipped multi-protocol APIs with OAuth, and automated zero-downtime CI/CD for **10+ services** — reducing support tickets **60%** and achieving **2× faster** RCA.
+- Led ONDC order and cart services from launch to **1M+ orders** and **5,000+ merchants** with Spring Boot and Node.js microservices.
+- Designed hybrid APIs with Webhooks, gRPC, and GraphQL; drove **50+** design/code reviews per quarter across **10+** microservices.
+- Architected catalog ingestion for **200,000+ merchants**; built rejection reporting in Hive — **60%** fewer seller support tickets.
+- Cut API latency **40%** with Redis and Kafka; cut cart errors **75%** via SQL optimization and deadlock fixes.
+- Enabled zero-downtime deploys for **10+** services; migrated EC2 to Graviton (**20%** cost savings); **95%+** code coverage with TDD/BDD.
 
 </details>
 
@@ -220,65 +201,65 @@ Scaled ONDC order/cart services from **0 → 1M+ orders** across **5K+ merchants
 <td valign="top" width="50%">
 
 ### 🩺 CliniPulse AI
-> **Full-Stack Engineering** · **RAG · AI Engineering** · **Workflow Automation** · **Cloud**
+> **Java** · **Spring Boot** · **Spring AI** · **React** · **Docker** · **Azure**
 
-Built a healthcare workflow platform with retrieval-augmented generation and hybrid cloud storage — cut report turnaround from **30 min → under 2 min**.
+HIPAA-compliant medical RAG platform with Spring Security PHI handling and ChromaDB — report generation from **30 min → under 2 min**. Llama 70B on Azure H100 VMs.
 
-[`Live Demo`](https://openinapp.link/cokp2)
-
-</td>
-<td valign="top" width="50%">
-
-### 🧬 LLM Fine-Tuning Factory
-> **ML Engineering** · **Model Serving** · **API Design** · **Cost Optimization**
-
-Engineered a multi-domain fine-tuning and serving pipeline — **70% cheaper** than proprietary API's across **5 domain models**.
-
-[`Live Demo`](https://github.com/nckhemanth/llm-finetune-factory)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### 🧑‍💼 RecruitFlow ATS Portal
-> **Full-Stack Engineering** · **API Design** · **Data Modeling** · **Pipeline UX**
-
-Built a recruiting portal with candidate pipelines and recruiter dashboards — validated, paginated APIs cut list and audit retrieval latency by **~30%**.
-
-[`GitHub`](https://github.com/nckhemanth/recruit-flow)
+[`Live Demo`](https://clini-pulse.vercel.app/)
 
 </td>
 <td valign="top" width="50%">
 
-### 🧳 A2A Travel Orchestrator
-> **Multi-Agent Systems** · **Autonomous Orchestration** · **Protocol Design**
+### 🧬 LLM Fine Tuning Factory
+> **Python** · **PyTorch** · **PEFT** · **LoRA** · **QLoRA** · **FastAPI**
 
-Built a multi-tenant agent system for autonomous budget-vs-experience negotiation — **90% less** itinerary planning time.
+Fine-tuned **5 domain models** (HR, Finance, Healthcare, Marketing, Sales) on H100 GPUs — **70%** cheaper than proprietary APIs. Includes MCP subscription automation (Glama ecosystem).
 
-[`Live Demo`](https://openinapp.link/jrpzr)
+[`GitHub`](https://github.com/nckhemanth/llm-finetune-factory)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 🔋 NSF Smart Grid Telemetry
-> **Real-Time Systems** · **Telemetry** · **System Design** · **Visualization**
+### 🧑‍💼 ATS Recruiting Portal
+> **Java** · **Spring Boot 3** · **React** · **TypeScript** · **PostgreSQL**
 
-Real-time telemetry platform processing **75K+ records/min** at sub-500ms latency across distributed grid nodes.
+Layered Spring Boot backend with JWT RBAC, MapStruct DTOs, JPA Specifications, and Elasticsearch search — cut list latency by **~60%**.
+
+[`Live Demo`](https://sparkling-moonbeam-c4168f.netlify.app/)
+
+</td>
+<td valign="top" width="50%">
+
+### 🧳 Multi-Agent A2A Travel Orchestrator
+> **Python** · **LangChain** · **LangGraph** · **CrewAI** · **AutoGen**
+
+Multi-agent itinerary planner over the A2A protocol with autonomous budget-vs-experience negotiation — **90%** faster than manual research.
+
+[`Live Demo`](https://huggingface.co/spaces/nckhemanth/travel-orchestrator)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🔋 NSF Real-Time Smart Grid Platform
+> **Java** · **Spring Boot** · **React** · **TypeScript** · **D3.js** · **TimescaleDB**
+
+Real-time grid monitoring with WebSockets at 2-second intervals across **50+ nodes**, dual-layer TimescaleDB + JPA backend, and interactive D3 dashboards.
 
 [`Website`](https://www.seed-grid.org/)
 
 </td>
 <td valign="top" width="50%">
 
-### 📬 Subscription Tracker MCP
-> **Automation** · **Agent Tools** · **Data Extraction** · **Integration**
+### 🌐 Portfolio
+> **Next.js** · **TypeScript** · **React**
 
-Automated subscription extraction agent with **90%+** accuracy — pulls and structures billing data from email inboxes.
+Personal portfolio aligned with my resume — experience, projects, skills, and contact.
 
-[`GitHub`](https://github.com/nckhemanth/subscription-tracker-mcp)
+[`nckhemanth.cloud`](https://nckhemanth.cloud)
 
 </td>
 </tr>
@@ -328,11 +309,13 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 
 <div align="center">
 
-**Actively seeking full-time Software Engineer roles — Backend · Distributed Systems · Full-Stack · AI Engineering**
+**Actively seeking New Grad Software Engineer roles — Backend · Distributed Systems · Cloud · GenAI**
 
 <br/>
 
 [![Email](https://img.shields.io/badge/nckhemanthreddy7@gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:nckhemanthreddy7@gmail.com)
+&nbsp;
+[![Phone](https://img.shields.io/badge/%2B1_929--969--8483-1f2937?style=flat-square&logo=phone&logoColor=ffffff)](tel:+19299698483)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-reddy-a22a931a0/)
 
@@ -344,19 +327,19 @@ Automated subscription extraction agent with **90%+** accuracy — pulls and str
 <summary><b>Tech index</b></summary>
 <br/>
 
-Hemanth Reddy — Software Engineer based in New York City. Backend Engineer, Distributed Systems Engineer, Full-Stack Developer, Cloud Engineer, and AI / Machine Learning Engineer. NYU MS Computer Science graduate (GPA 3.97) and IIT Dharwad B.Tech CSE alumnus, with experience at Paytm, EchoStar / DISH Network, and New York University.
+Hemanth Reddy — New Grad Software Engineer based in New York City. MS in Computer and Information Sciences at NYU (CGPA 3.97/4) and IIT Dharwad B.Tech CSE alumnus (CGPA 3.7/4). Experience at Paytm and EchoStar building backend microservices, AWS pipelines, and GenAI tooling.
 
-**Languages:** Java, Python, TypeScript, JavaScript, Go, C++, SQL.
+**Languages:** Java, Python, C++, JavaScript, TypeScript, SQL, Shell.
 
-**Backend & Distributed Systems:** Spring Boot, microservices, REST APIs, gRPC, GraphQL, Apache Kafka, Redis, Kubernetes, Docker, event-driven architecture, CI/CD, observability.
+**Frameworks & Distributed:** Spring Boot, React, Node.js, Hibernate, REST APIs, gRPC, GraphQL, microservices, Kafka, Redis, WebSockets.
 
-**Cloud & DevOps:** AWS (Lambda, S3, SQS, EventBridge, Transfer Family), Azure, Terraform, infrastructure as code.
+**Databases:** PostgreSQL, MySQL, MongoDB, Elasticsearch, TimescaleDB.
 
-**AI / ML Engineering:** Retrieval-Augmented Generation (RAG), LLM fine-tuning (LoRA, QLoRA, DPO), PyTorch, LangChain, LangGraph, multi-agent systems, Amazon Bedrock, NLP.
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Linux.
 
-**Frontend & Data:** React, Next.js, D3.js, WebSockets, PostgreSQL, MySQL, TimescaleDB, ChromaDB.
+**AI / ML:** PyTorch, LLaMA 3, LangChain, RAG, Amazon Bedrock.
 
-Open to full-time Software Engineer, Backend Engineer, Distributed Systems Engineer, Full-Stack Engineer, and AI Engineer roles. Open to relocation.
+Open to New Grad Software Engineer roles. Open to relocation.
 
 </details>
 
