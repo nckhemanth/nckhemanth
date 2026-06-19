@@ -132,7 +132,7 @@
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
           stroke-dashoffset="0"
-          size="62.68317704822428"
+          size="83.57148534611592"
           data-testid="lang-donut"
         />
       </g>
@@ -146,8 +146,8 @@
           stroke="#3572A5"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="315.0800136293916"
-          size="21.564688812992657"
+          stroke-dashoffset="420.0761030607118"
+          size="8.635407460688588"
           data-testid="lang-donut"
         />
       </g>
@@ -161,8 +161,8 @@
           stroke="#b07219"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="423.47596235234795"
-          size="9.476862996022728"
+          stroke-dashoffset="463.4823952835178"
+          size="7.592743138160696"
           data-testid="lang-donut"
         />
       </g>
@@ -173,11 +173,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#f1e05a"
+          stroke="#f0a9f0"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="471.1118714201591"
-          size="5.813499113997424"
+          stroke-dashoffset="501.6476849850217"
+          size="0.07987805022007781"
           data-testid="lang-donut"
         />
       </g>
@@ -188,11 +188,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#3178c6"
+          stroke="#f1e05a"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="500.33370519325524"
-          size="0.3813765918237486"
+          stroke-dashoffset="502.04919585822887"
+          size="0.060675839132689646"
           data-testid="lang-donut"
         />
       </g>
@@ -203,11 +203,11 @@
           cy="100"
           r="80"
           fill="transparent"
-          stroke="#c6538c"
+          stroke="#878787"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="502.2507130318546"
-          size="0.0803954369391651"
+          stroke-dashoffset="502.3541858909803"
+          size="0.059810165682028696"
           data-testid="lang-donut"
         />
       </g>
@@ -220,42 +220,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 62.68%
+        C++ 83.57%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 21.56%
+        Python 8.64%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 9.48%
+        Java 7.59%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#f0a9f0" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 5.81%
+        Gnuplot 0.08%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 0.38%
+        JavaScript 0.06%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#c6538c" />
+      <circle cx="5" cy="6" r="5" fill="#878787" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SCSS 0.08%
+        Hack 0.06%
       </text>
     </g>
   </g></g>
