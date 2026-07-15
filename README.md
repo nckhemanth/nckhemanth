@@ -173,7 +173,7 @@ AI system design, TypeScript/Zod, HLD notes — public study repos I keep update
 <div align="center">
 
 <img src="./profile/github-stats.svg" height="200" alt="GitHub stats"/>
-<img src="./profile/streak.svg" height="200" alt="GitHub streak"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/streak.svg?v=darkfix1" height="200" alt="GitHub streak"/>
 
 <br/>
 

@@ -47,12 +47,31 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: >-
-            user=${{ github.repository_owner }}&hide_border=true&background=0d1117
-            &stroke=8b5cf6&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa
-            &currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e
-            &border_radius=12&disable_animations=true
+            user=${{ github.repository_owner }}&theme=dark&hide_border=true
+            &background=0D1117&border=0D1117&stroke=8B5CF6&ring=A78BFA&fire=C084FC
+            &currStreakLabel=A78BFA&currStreakNum=FFFFFF&sideLabels=C9D1D9
+            &sideNums=FFFFFF&dates=8B949E&border_radius=12&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Fix streak card contrast for dark READMEs
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path("profile/streak.svg")
+          svg = p.read_text()
+          # Action sometimes emits near-white card fill with white numerals.
+          svg = re.sub(
+              r"(<g style='isolation: isolate'>\s*<rect stroke='#000000' stroke-opacity='0' fill=')[^']+(')",
+              r"\g<1>#0d1117\2",
+              svg,
+              count=1,
+          )
+          svg = svg.replace("fill='#FFFEFE'", "fill='#0d1117'").replace('fill="#FFFEFE"', 'fill="#0d1117"')
+          p.write_text(svg)
+          print("streak card fill fixed")
+          PY
 
       - name: Commit stats
         run: |
