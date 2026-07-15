@@ -175,9 +175,9 @@ WebSocket telemetry every 2s, D3.js for 50+ nodes, TimescaleDB + Spring Data JPA
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/pacman-contribution-graph-dark.svg?v=20260715f"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/pacman-contribution-graph.svg?v=20260715f"/>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/pacman-contribution-graph-dark.svg?v=20260715f" width="92%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260715g"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake.svg?v=20260715g"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260715g" width="92%"/>
 </picture>
 
 <br/>
