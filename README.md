@@ -172,28 +172,28 @@ AI system design, TypeScript/Zod, HLD notes — public study repos I keep update
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/github-stats.svg?v=20260715c" height="270" alt="GitHub stats"/>
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/streak.svg?v=20260715c" height="195" alt="GitHub streak"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/github-stats.svg?v=20260715d" height="270" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/streak.svg?v=20260715d" height="195" alt="GitHub streak"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/top-langs.svg?v=20260715c" height="180" alt="Top languages"/>
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-gitblock.svg?v=20260715c" height="180" alt="Contribution blocks"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/top-langs.svg?v=20260715d" height="180" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-gitblock.svg?v=20260715d" height="180" alt="Contribution blocks"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a855f7&area=true&area_color=6366f1&hide_border=true&radius=12&v=20260715c" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a855f7&area=true&area_color=6366f1&hide_border=true&radius=12&v=20260715d" width="92%"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-rainbow.svg?v=20260715c" width="92%" alt="3D contributions"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-rainbow.svg?v=20260715d" width="92%" alt="3D contributions"/>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260715c"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake.svg?v=20260715c"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260715c" width="92%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260715d"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake.svg?v=20260715d"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260715d" width="92%"/>
 </picture>
 
 <br/>
