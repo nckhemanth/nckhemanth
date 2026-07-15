@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=36&lines=I+build+backends%2C+pipelines%2C+and+cloud+systems;Python+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+TypeScript;Paytm+%C2%B7+EchoStar+%C2%B7+NYU;Kafka+%C2%B7+AWS+%C2%B7+RAG+%C2%B7+Spring)](https://github.com/nckhemanth)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=36&lines=I+build+backends%2C+pipelines%2C+and+cloud+systems;Java+%C2%B7+Python+%C2%B7+C%2B%2B+%C2%B7+TypeScript;Paytm+%C2%B7+EchoStar+%C2%B7+NYU;Kafka+%C2%B7+AWS+%C2%B7+RAG+%C2%B7+Spring)](https://github.com/nckhemanth)
 
 <br/>
 
@@ -32,9 +32,9 @@
 
 I'm Hemanth, a software engineer who likes building things that actually run in production.
 
-I work across **Python**, **C++**, **Java**, and **TypeScript**: backends, distributed systems, cloud pipelines, and more recently RAG / GenAI (agents, finetuning, doc intelligence).
+I work across **Java**, **Python**, **C++**, and **TypeScript**: backends, distributed systems, cloud pipelines, and more recently RAG / GenAI (agents, finetuning, doc intelligence).
 
-I studied CS at **IIT Dharwad**, then Computer & Information Sciences at **NYU**. Between those, I spent a couple of years at **Paytm** on order/catalog services, and a summer at **EchoStar** on AWS data pipelines + Bedrock tooling.
+I studied CS at **IIT Dharwad** (CGPA 8.21/10), then Computer and Information Sciences at **NYU** (CGPA 3.97/4). Between those, I spent a couple of years at **Paytm** on order/catalog services, and a summer at **EchoStar** (Littleton, CO) on AWS data pipelines + Bedrock tooling.
 
 Based in New York. I like clean services, boring reliable infra, and learning by building.
 
@@ -51,27 +51,29 @@ Based in New York. I like clean services, boring reliable infra, and learning by
 ## Work
 
 <details open>
-<summary><b>EchoStar — Software Systems Engineering Intern · Jun – Aug 2025 · Denver</b></summary>
+<summary><b>EchoStar · Software Systems Engineering Intern · Jun – Aug 2025 · Littleton, CO</b></summary>
 <br/>
 
-`Python` · `AWS` · `Java` · `Spring Boot` · `React` · `TypeScript` · `PostgreSQL` · `Bedrock`
+`Java` · `Spring Boot` · `AWS` · `React` · `TypeScript` · `PostgreSQL` · `Bedrock` · `Python`
 
-- Built an event-driven drone data ingestion pipeline on AWS (Transfer Family, S3, Lambda, EventBridge, SQS).
-- Worked on 2D→3D photogrammetry flows and a Cesium 3D Tiles viewer.
-- Added a Bedrock-based GenAI summarizer for incident notes.
+- Architected an event driven SFTP based drone data ingestion pipeline on AWS (Transfer Family, S3, Lambda, EventBridge, SQS) via IaC, reaching 99.9% upload reliability and a projected 97% cost reduction ($7.3M/yr).
+- Managed full SDLC for 2D to 3D photogrammetry automation and a full stack Cesium 3D Tiles viewer (React, TypeScript, Spring Boot, PostgreSQL).
+- Engineered a GenAI summarizer on Amazon Bedrock that cut incident response time by 40% with telemetry insights and root cause analysis.
 
 </details>
 
 <details open>
-<summary><b>Paytm — Software Development Engineer · Jan 2022 – Jun 2024 · Noida</b></summary>
+<summary><b>Paytm · Software Development Engineer (5 Mo Intern + 2 Yr FTE) · Jan 2022 – Jun 2024 · Noida</b></summary>
 <br/>
 
-`Java` · `Python` · `Spring Boot` · `Node.js` · `Kafka` · `Redis` · `Kubernetes`
+`Java` · `Spring Boot` · `Hibernate` · `Node.js` · `Kafka` · `Redis` · `AWS` · `PostgreSQL` · `Docker` · `Kubernetes`
 
-- Worked on ONDC order and cart services — microservices handling real merchant and order traffic.
-- Helped design APIs across Webhooks, gRPC, and GraphQL; reviewed a lot of service-boundary code.
-- Built catalog ingestion and rejection reporting for merchant feeds.
-- Spent a lot of time on latency, SQL deadlocks, Redis caching, Kafka paths, and deploys.
+- Led ONDC compliant order and cart backends from launch to 1M+ orders and 5,000+ merchants (Spring Boot + Node.js).
+- Designed hybrid APIs with Webhooks, gRPC, and GraphQL under SOA / OAuth standards.
+- Drove 50+ design and code reviews per quarter across 10+ microservices.
+- Built catalog ingestion for 200,000+ merchants and rejection reporting (Hive), cutting seller support tickets 60%.
+- Dropped Multicart API latency 40% with Redis + Kafka; cut cart errors 75% via SQL / deadlock fixes.
+- Enabled zero downtime deploys (Jenkins, Docker, K8s, Spring Cloud); migrated EC2 to Graviton for ~20% cloud cost savings.
 
 </details>
 
@@ -84,8 +86,8 @@ Based in New York. I like clean services, boring reliable infra, and learning by
 <tr>
 <td valign="top" width="50%">
 
-### CliniPulse AI
-Medical document Q&A with RAG — Spring Boot, Spring AI, React, Azure.
+### CliniPulse AI: Secure Medical Document Intelligence
+HIPAA aware medical doc RAG. Spring Boot, Spring AI, Next.js, ChromaDB, Azure. Report gen cut from 30 min to under 2 min.
 
 [`Demo`](https://clini-pulse.vercel.app/) · [`Repo`](https://github.com/nckhemanth/clinipulse-main)
 
@@ -93,7 +95,7 @@ Medical document Q&A with RAG — Spring Boot, Spring AI, React, Azure.
 <td valign="top" width="50%">
 
 ### ATS Recruiting Portal
-Full-stack ATS — Spring Boot 3, React, PostgreSQL, Elasticsearch, JWT RBAC.
+Spring Boot 3 + React/TypeScript ATS with JWT RBAC, PostgreSQL, Elasticsearch. List latency cut ~60%.
 
 [`Demo`](https://sparkling-moonbeam-c4168f.netlify.app/) · [`Repo`](https://github.com/nckhemanth/ats-recruiting-portal-main)
 
@@ -102,36 +104,18 @@ Full-stack ATS — Spring Boot 3, React, PostgreSQL, Elasticsearch, JWT RBAC.
 <tr>
 <td valign="top" width="50%">
 
-### LLM Fine-Tuning Factory
-LoRA / QLoRA fine-tuning + serving for domain models on H100s.
-
-[`Repo`](https://github.com/nckhemanth/llm-finetune-factory)
-
-</td>
-<td valign="top" width="50%">
-
-### A2A Travel Orchestrator
-Multi-agent itinerary planning over LangGraph / CrewAI / AutoGen.
+### Multi-Agent A2A Travel Orchestrator
+LangChain, CrewAI, and AutoGen over A2A JSON-RPC with Streamlit + Plotly. Planning time cut ~90%.
 
 [`Demo`](https://huggingface.co/spaces/nckhemanth/travel-orchestrator) · [`Repo`](https://github.com/nckhemanth/a2a-travel-orchestration)
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
-### NSF Smart Grid Platform
-Realtime grid monitoring — WebSockets, TimescaleDB, D3 dashboards.
+### NSF Funded: Real Time Smart Grid Platform
+WebSocket telemetry every 2s, D3.js for 50+ nodes, TimescaleDB + Spring Data JPA, CSV exports.
 
-[`Site`](https://www.seed-grid.org/)
-
-</td>
-<td valign="top" width="50%">
-
-### Notes & learning
-AI system design, TypeScript/Zod, HLD notes — public study repos I keep updated.
-
-[`AI-Engineering`](https://github.com/nckhemanth/AI-Engineering) · [`TypeScript`](https://github.com/nckhemanth/TypeScript)
+[`Demo`](https://www.seed-grid.org/)
 
 </td>
 </tr>
@@ -144,15 +128,15 @@ AI system design, TypeScript/Zod, HLD notes — public study repos I keep update
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,react,spring,nodejs,aws,docker,kubernetes,postgres,redis,kafka,pytorch,linux,githubactions,graphql,terraform,mongodb&perline=10" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,spring,nodejs,aws,docker,kubernetes,postgres,redis,kafka,pytorch,linux,githubactions,graphql,terraform,mongodb&perline=10" alt="Tech stack"/>
 
 </div>
 
 <br/>
 
+![Java](https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=f89820)
 ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=4B8BBE)
 ![C++](https://img.shields.io/badge/C++-1f2937?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=f89820)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f2937?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Kafka](https://img.shields.io/badge/Kafka-1f2937?style=flat-square&logo=apachekafka&logoColor=ffffff)
