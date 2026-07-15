@@ -1,6 +1,8 @@
 name: Generate 3D Contribution Graph
 
 on:
+  schedule:
+    - cron: "30 4 * * 0"
   workflow_dispatch:
 
 permissions:
@@ -16,10 +18,9 @@ jobs:
       - name: Generate 3D contribution SVGs
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
+          USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

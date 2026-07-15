@@ -61,4 +61,5 @@ jobs:
           git add profile/*.svg
           git diff --cached --quiet && exit 0
           git commit -m "chore: refresh profile stats SVGs"
+          git pull --rebase origin main
           git push
