@@ -1,268 +1,45 @@
+<svg width="360" height="245" viewBox="0 0 360 245" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="languages-title languages-desc">
+  <title id="languages-title">nckhemanth core languages</title>
+  <desc id="languages-desc">Language distribution across owned public repositories, excluding generated and presentation languages.</desc>
+  <style>
+    .title { fill: #8b5cf6; font: 600 18px 'Segoe UI', Ubuntu, sans-serif; }
+    .subtitle, .percent { fill: #8b949e; font: 400 11px 'Segoe UI', Ubuntu, sans-serif; }
+    .language { fill: #c9d1d9; font: 600 12px 'Segoe UI', Ubuntu, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="359" height="244" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text class="title" x="24" y="29">Core Languages</text>
+  <text class="subtitle" x="24" y="44">Owned public repositories · code languages only</text>
+  <clipPath id="language-bar"><rect x="24" y="54" width="312" height="9" rx="4.5"/></clipPath>
+  <g clip-path="url(#language-bar)"><rect x="24.00" y="54" width="146.28" height="9" fill="#f34b7d"/><rect x="170.28" y="54" width="79.91" height="9" fill="#3572A5"/><rect x="250.19" y="54" width="29.23" height="9" fill="#b07219"/><rect x="279.43" y="54" width="24.82" height="9" fill="#3178c6"/><rect x="304.24" y="54" width="18.28" height="9" fill="#f1e05a"/><rect x="322.52" y="54" width="13.48" height="9" fill="#9DC3FF"/></g>
 
-      <svg
-        width="300"
-        height="375"
-        viewBox="0 0 300 375"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #8B5CF6;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-    @keyframes slideInAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: calc(100%-100px);
-      }
-    }
-    @keyframes growWidthAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-    .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C9D1D9;
-    }
-    @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
-      .stat { font-size:12px; }
-    }
-    .bold { font-weight: 700 }
-    .lang-name {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #C9D1D9;
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    #rect-mask rect{
-      animation: slideInAnimation 1s ease-in-out forwards;
-    }
-    .lang-progress{
-      animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    
-
-          
-      /* Animations */
-      @keyframes scaleInAnimation {
-        from {
-          transform: translate(-5px, 5px) scale(0);
-        }
-        to {
-          transform: translate(-5px, 5px) scale(1);
-        }
-      }
-      @keyframes fadeInAnimation {
-        from {
-          opacity: 0;
-        }
-        to {
-          opacity: 1;
-        }
-      }
-    
-          
-        </style>
-
-        
-
-        <rect
-          data-testid="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="12"
-          height="99%"
-          stroke="#e4e2e2"
-          width="299"
-          fill="#0d1117"
-          stroke-opacity="1"
-        />
-
-        
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Core Languages</text>
+    <g transform="translate(24 96)">
+      <circle cx="5" cy="-4" r="5" fill="#f34b7d"/>
+      <text class="language" x="17" y="0">C++</text>
+      <text class="percent" x="17" y="18">46.9%</text>
     </g>
-      </g>
-    
-
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
-          
-    <svg data-testid="lang-items">
-      <g transform="translate(0, 0)">
-        <svg data-testid="donut">
-          
-      <g class="stagger" style="animation-delay: 100ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#f34b7d"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="0"
-          size="49.53130330378227"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 200ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#3572A5"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="248.9714857310244"
-          size="27.058229328654782"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 300ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#b07219"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="384.98098089590394"
-          size="8.609505075073878"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 400ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#f1e05a"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="428.25707352773776"
-          size="6.163634027583946"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 500ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#9DC3FF"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="459.2388773364958"
-          size="4.564420874481084"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 600ms">
-        <circle 
-          cx="150"
-          cy="100"
-          r="80"
-          fill="transparent"
-          stroke="#3178c6"
-          stroke-width="25"
-          stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="482.1821590759545"
-          size="4.072907390424038"
-          data-testid="lang-donut"
-        />
-      </g>
-    
-        </svg>
-      </g>
-      <g transform="translate(0, 220)">
-        <svg data-testid="lang-names" x="25">
-          <g transform="translate(0, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 49.53%
-      </text>
+    <g transform="translate(192 96)">
+      <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
+      <text class="language" x="17" y="0">Python</text>
+      <text class="percent" x="17" y="18">25.6%</text>
     </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 27.06%
-      </text>
+    <g transform="translate(24 142)">
+      <circle cx="5" cy="-4" r="5" fill="#b07219"/>
+      <text class="language" x="17" y="0">Java</text>
+      <text class="percent" x="17" y="18">9.4%</text>
     </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#b07219" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 8.61%
-      </text>
+    <g transform="translate(192 142)">
+      <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
+      <text class="language" x="17" y="0">TypeScript</text>
+      <text class="percent" x="17" y="18">8.0%</text>
     </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 6.16%
-      </text>
+    <g transform="translate(24 188)">
+      <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
+      <text class="language" x="17" y="0">JavaScript</text>
+      <text class="percent" x="17" y="18">5.9%</text>
     </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#9DC3FF" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        ANTLR 4.56%
-      </text>
+    <g transform="translate(192 188)">
+      <circle cx="5" cy="-4" r="5" fill="#9DC3FF"/>
+      <text class="language" x="17" y="0">ANTLR</text>
+      <text class="percent" x="17" y="18">4.3%</text>
     </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 4.07%
-      </text>
-    </g>
-  </g></g>
-        </svg>
-      </g>
-    </svg>
-  
-        </g>
-      </svg>
-    
+</svg>

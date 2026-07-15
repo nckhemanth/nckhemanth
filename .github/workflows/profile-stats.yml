@@ -18,30 +18,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: >-
-            username=${{ github.repository_owner }}&show_icons=true&hide_border=true
-            &count_private=true&include_all_commits=true&theme=tokyonight
-            &bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9
-            &border_radius=12&hide=stars,issues,contribs
-          path: profile/github-stats.svg
-          token: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: >-
-            username=${{ github.repository_owner }}&layout=donut-vertical&hide_border=true
-            &theme=transparent&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6
-            &text_color=C9D1D9&border_radius=12&langs_count=6
-            &hide=jupyter%20notebook,php,c,shell,dockerfile,html,css,makefile,vue,tsql,ejs
-            &custom_title=Core%20Languages
-          path: profile/top-langs.svg
-          token: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: Generate public repository stats
+        run: node scripts/generate-public-profile-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: nckhemanth
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
