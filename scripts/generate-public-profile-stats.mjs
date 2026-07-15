@@ -172,7 +172,7 @@ const languagesSvg = `
   </style>
   <rect x="0.5" y="0.5" width="359" height="244" rx="12" fill="#0d1117" stroke="#30363d"/>
   <text class="title" x="24" y="29">Core Languages</text>
-  <text class="subtitle" x="24" y="44">Owned public repositories · GitHub Linguist</text>
+  <text class="subtitle" x="24" y="44">Owned public repositories · code languages only</text>
   <clipPath id="language-bar"><rect x="24" y="54" width="312" height="9" rx="4.5"/></clipPath>
   <g clip-path="url(#language-bar)">${barSegments}</g>
   ${languageRows}
