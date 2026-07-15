@@ -30,13 +30,13 @@
 <tr>
 <td valign="top" width="68%">
 
-I'm Hemanth — a software engineer who likes building things that actually run in production.
+I'm Hemanth, a software engineer who likes building things that actually run in production.
 
-I work across **Python**, **C++**, **Java**, and **TypeScript** — backends, distributed systems, cloud pipelines, and more recently RAG / GenAI (agents, fine-tuning, doc intelligence).
+I work across **Python**, **C++**, **Java**, and **TypeScript**: backends, distributed systems, cloud pipelines, and more recently RAG / GenAI (agents, finetuning, doc intelligence).
 
 I studied CS at **IIT Dharwad**, then Computer & Information Sciences at **NYU**. Between those, I spent a couple of years at **Paytm** on order/catalog services, and a summer at **EchoStar** on AWS data pipelines + Bedrock tooling.
 
-Based in New York. I like clean services, boring-reliable infra, and learning by building.
+Based in New York. I like clean services, boring reliable infra, and learning by building.
 
 </td>
 <td valign="top" align="right" width="32%">
