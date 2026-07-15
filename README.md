@@ -72,8 +72,8 @@ Based in New York. I like clean services, boring reliable infra, and learning by
 - Designed hybrid APIs with Webhooks, gRPC, and GraphQL under SOA / OAuth standards.
 - Drove 50+ design and code reviews per quarter across 10+ microservices.
 - Built catalog ingestion for 200,000+ merchants and rejection reporting (Hive), cutting seller support tickets 60%.
-- Dropped Multicart API latency 40% with Redis + Kafka; cut cart errors 75% via SQL / deadlock fixes.
-- Enabled zero downtime deploys (Jenkins, Docker, K8s, Spring Cloud); migrated EC2 to Graviton for ~20% cloud cost savings.
+- Dropped Multicart API latency 40% with Redis + Kafka, and cut cart errors 75% via SQL / deadlock fixes.
+- Enabled zero downtime deploys (Jenkins, Docker, K8s, Spring Cloud), and migrated EC2 to Graviton for ~20% cloud cost savings.
 
 </details>
 
