@@ -273,12 +273,12 @@ Resume-aligned site — experience, projects, skills, contact.
 
 <div align="center">
 
-<sub>Live snapshot · 190 commits · 8 PRs · 288+ contributions · current streak active</sub>
+<sub>Live snapshot · 219 commits · 9 PRs · 6 merged · 288+ contributions · full card (stars · issues · reviews)</sub>
 
 <br/><br/>
 
-<img src="./profile/github-stats.svg" height="180" alt="GitHub stats"/>
-<img src="./profile/streak.svg" height="180" alt="GitHub streak"/>
+<img src="./profile/github-stats.svg" height="270" alt="GitHub stats"/>
+<img src="./profile/streak.svg" height="195" alt="GitHub streak"/>
 
 <br/>
 
