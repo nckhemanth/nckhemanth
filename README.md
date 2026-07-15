@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/nckhemanth">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e1b4b,100:4c1d95&height=220&section=header&text=Hemanth%20Reddy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Cloud%20%C2%B7%20GenAI&descAlignY=62&descSize=18&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e1b4b,100:4c1d95&height=220&section=header&text=Hemanth%20Reddy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Systems%20%C2%B7%20Cloud%20%C2%B7%20AI&descAlignY=62&descSize=18&descColor=c4b5fd" width="100%"/>
 </a>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=36&lines=I+build+backends%2C+pipelines%2C+and+cloud+systems;Paytm+%C2%B7+EchoStar+%C2%B7+NYU;Java+%C2%B7+Spring+%C2%B7+Kafka+%C2%B7+AWS+%C2%B7+RAG)](https://github.com/nckhemanth)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=36&lines=I+build+backends%2C+pipelines%2C+and+cloud+systems;Python+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+TypeScript;Paytm+%C2%B7+EchoStar+%C2%B7+NYU;Kafka+%C2%B7+AWS+%C2%B7+RAG+%C2%B7+Spring)](https://github.com/nckhemanth)
 
 <br/>
 
@@ -32,9 +32,9 @@
 
 I'm Hemanth — a software engineer who likes building things that actually run in production.
 
-Most of my work sits around **backends**, **distributed systems**, and **cloud pipelines**. Lately I've also been deep in **RAG / GenAI** systems — medical docs, agents, and fine-tuning workflows.
+I work across **Python**, **C++**, **Java**, and **TypeScript** — backends, distributed systems, cloud pipelines, and more recently RAG / GenAI (agents, fine-tuning, doc intelligence).
 
-I studied CS at **IIT Dharwad**, then Computer & Information Sciences at **NYU**. Between those, I spent a couple of years at **Paytm** shipping order and catalog services, and a summer at **EchoStar** on AWS data pipelines + Bedrock tooling.
+I studied CS at **IIT Dharwad**, then Computer & Information Sciences at **NYU**. Between those, I spent a couple of years at **Paytm** on order/catalog services, and a summer at **EchoStar** on AWS data pipelines + Bedrock tooling.
 
 Based in New York. I like clean services, boring-reliable infra, and learning by building.
 
@@ -54,7 +54,7 @@ Based in New York. I like clean services, boring-reliable infra, and learning by
 <summary><b>EchoStar — Software Systems Engineering Intern · Jun – Aug 2025 · Denver</b></summary>
 <br/>
 
-`Java` · `Spring Boot` · `AWS` · `React` · `TypeScript` · `PostgreSQL` · `Bedrock`
+`Python` · `AWS` · `Java` · `Spring Boot` · `React` · `TypeScript` · `PostgreSQL` · `Bedrock`
 
 - Built an event-driven drone data ingestion pipeline on AWS (Transfer Family, S3, Lambda, EventBridge, SQS).
 - Worked on 2D→3D photogrammetry flows and a Cesium 3D Tiles viewer.
@@ -66,7 +66,7 @@ Based in New York. I like clean services, boring-reliable infra, and learning by
 <summary><b>Paytm — Software Development Engineer · Jan 2022 – Jun 2024 · Noida</b></summary>
 <br/>
 
-`Java` · `Spring Boot` · `Kafka` · `Redis` · `Kubernetes` · `Node.js`
+`Java` · `Python` · `Spring Boot` · `Node.js` · `Kafka` · `Redis` · `Kubernetes`
 
 - Worked on ONDC order and cart services — microservices handling real merchant and order traffic.
 - Helped design APIs across Webhooks, gRPC, and GraphQL; reviewed a lot of service-boundary code.
@@ -144,14 +144,15 @@ AI system design, TypeScript/Zod, HLD notes — public study repos I keep update
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,react,spring,nodejs,graphql,aws,docker,kubernetes,postgres,mysql,mongodb,redis,kafka,terraform,linux,githubactions&perline=10" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,react,spring,nodejs,aws,docker,kubernetes,postgres,redis,kafka,pytorch,linux,githubactions,graphql,terraform,mongodb&perline=10" alt="Tech stack"/>
 
 </div>
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=f89820)
 ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=4B8BBE)
+![C++](https://img.shields.io/badge/C++-1f2937?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=f89820)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f2937?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Kafka](https://img.shields.io/badge/Kafka-1f2937?style=flat-square&logo=apachekafka&logoColor=ffffff)
@@ -228,7 +229,7 @@ If you want to talk systems, RAG, or something you're building — reach out.
 <summary>Keywords</summary>
 <br/>
 
-Hemanth Reddy — software engineer in New York. Backend, distributed systems, cloud, GenAI. Experience at Paytm and EchoStar. Java, Spring Boot, Kafka, Redis, AWS, RAG, LangChain, PyTorch.
+Hemanth Reddy — software engineer in New York. Backend, distributed systems, cloud, GenAI. Experience at Paytm and EchoStar. Python, C++, Java, TypeScript, Spring Boot, Kafka, Redis, AWS, RAG, LangChain, PyTorch.
 
 </details>
 
