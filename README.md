@@ -1,19 +1,26 @@
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/nckhemanth">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1e1b4b,70:4c1d95,100:7c3aed&height=280&section=header&text=Hemanth%20Reddy&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=New%20Grad%20SWE%20%C2%B7%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Cloud%20%C2%B7%20GenAI&descAlignY=56&descSize=17&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e1b4b,55:4c1d95,85:7c3aed,100:c084fc&height=300&section=header&text=Hemanth%20Reddy&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=New%20Grad%20SWE%20%C2%B7%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Cloud%20%C2%B7%20GenAI&descAlignY=54&descSize=18&descColor=e9d5ff" width="100%"/>
 </a>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,16,20,24,30&height=70&section=header&text=✨%20Building%20systems%20that%20scale%20·%20Open%20to%20New%20Grad%20SWE%20✨&fontSize=20&fontColor=ffffff&animation=twinkling" width="92%"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/hemanth-reddy-a22a931a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:nckhemanthreddy7@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>&nbsp;
 <a href="https://nckhemanth.cloud"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/></a>&nbsp;
 <a href="https://leetcode.com/u/__Hemanth_Reddy__/"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>&nbsp;
+<a href="https://github.com/nckhemanth"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_to_New_Grad_SWE-059669?style=for-the-badge"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&height=42&lines=NYU+MS+Computer+%26+Information+Sciences+%C2%B7+3.97%2F4;Paytm+SDE+%E2%86%92+1M%2B+orders+%C2%B7+5K%2B+merchants;EchoStar+%C2%B7+AWS+pipelines+%C2%B7+Bedrock+GenAI;Shipping+backend+%C2%B7+cloud+%C2%B7+RAG+systems)](https://github.com/nckhemanth)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=C4B5FD&center=true&vCenter=true&width=820&height=46&lines=NYU+MS+%C2%B7+CGPA+3.97%2F4+%C2%B7+IIT+Dharwad+CSE;Paytm+SDE+%E2%86%92+1M%2B+orders+%C2%B7+5K%2B+merchants;EchoStar+%C2%B7+AWS+%C2%B7+Bedrock+GenAI+%C2%B7+99.9%25;Backend+%C2%B7+Kafka+%C2%B7+RAG+%C2%B7+Cloud+Systems)](https://github.com/nckhemanth)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=67E8F9&center=true&vCenter=true&width=820&height=32&lines=%F0%9F%92%A1+Currently%3A+shipping+production+RAG+%26+distributed+backends;%F0%9F%8E%AF+Seeking%3A+New+Grad+SWE+%C2%B7+Backend+%2F+Platform+%2F+AI+Infra;%E2%9A%A1+Superpower%3A+turning+messy+systems+into+reliable+pipelines)](https://nckhemanth.cloud)
 
 <br/>
 
@@ -21,42 +28,32 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/nckhemanth?label=Followers&style=for-the-badge&logo=github&color=312e81"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Repos-53-111827?style=for-the-badge&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnckhemanth&query=%24.public_repos&label=Repos&style=for-the-badge&logo=github&logoColor=a78bfa&color=111827"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Contributions-288+-111827?style=for-the-badge&logo=git&logoColor=22c55e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Years_Shipping-2%2B-111827?style=for-the-badge&logo=clockify&logoColor=38bdf8"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Ship%20reliable%20systems.%20Measure%20everything.%20Iterate%20fast.&author=operating%20principle" width="88%" alt="Dev quote"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=4" width="100%"/>
 
-<!-- ===================== ABOUT ===================== -->
-## &nbsp;👨‍💻&nbsp; About
+<!-- ===================== STATUS BOARD ===================== -->
+## &nbsp;🛰️&nbsp; Status Board
 
-<table>
-<tr>
-<td valign="top" width="68%">
+<div align="center">
 
-```yaml
-Hemanth Reddy:
-  role:      New Grad Software Engineer
-  based_in:  New York City, NY
-  education:
-    - NYU — MS Computer and Information Sciences · CGPA 3.97/4
-    - IIT Dharwad — B.Tech CSE · CGPA 3.7/4
-  focus:     [ Backend · Distributed Systems · Cloud · GenAI ]
-  shipped:   1M+ orders · 99.9% pipelines · HIPAA RAG systems
-  seeking:   New Grad SWE roles · open to relocate
-  ethos:     clean architecture · TDD · observability at scale
-```
+| 🟢 Available | 🧠 Focus | 🛠️ Building | 📚 Leveling up |
+|:---:|:---:|:---:|:---:|
+| New Grad SWE roles | Backend · Cloud · GenAI | RAG platforms · agents | System Design · LeetCode |
 
-</td>
-<td valign="top" align="right" width="32%">
-<img width="200" height="205" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/assets/phoenix-accent.gif" alt="Phoenix"/>
-</td>
-</tr>
-</table>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7c3aed,100:312e81&height=70&section=header&text=%F0%9F%9A%80%20IMPACT%20STATS%20THAT%20RECRUITERS%20REMEMBER&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- ===================== IMPACT ===================== -->
 ## &nbsp;📈&nbsp; Impact at a Glance
@@ -73,14 +70,76 @@ Hemanth Reddy:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=4" width="100%"/>
+
+<!-- ===================== ABOUT ===================== -->
+## &nbsp;👨‍💻&nbsp; About Me
+
+<table>
+<tr>
+<td valign="top" width="68%">
+
+```yaml
+Hemanth Reddy:
+  role:      New Grad Software Engineer
+  based_in:  New York City, NY
+  education:
+    - NYU — MS Computer and Information Sciences · CGPA 3.97/4
+    - IIT Dharwad — B.Tech CSE · CGPA 3.7/4
+  focus:     [ Backend · Distributed Systems · Cloud · GenAI ]
+  shipped:   1M+ orders · 99.9% pipelines · HIPAA RAG systems
+  seeking:   New Grad SWE roles · open to relocate
+  ethos:     clean architecture · TDD · observability at scale
+  fun:       phoenix energy · caffeine-powered deploys
+```
+
+</td>
+<td valign="top" align="right" width="32%">
+<img width="200" height="205" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/assets/phoenix-accent.gif" alt="Phoenix"/>
+</td>
+</tr>
+</table>
+
+### 🗺️ Career Path
+
+```mermaid
+timeline
+    title From campus to cloud systems
+    2018-2022 : IIT Dharwad B.Tech CSE
+              : Foundations in systems & software
+    2022-2024 : Paytm SDE
+              : ONDC · Kafka · Redis · K8s · 1M+ orders
+    2024-2026 : NYU MS CIS · 3.97 GPA
+              : Distributed systems · GenAI · RAG
+    2025      : EchoStar Intern
+              : AWS pipelines · Bedrock · 99.9% reliability
+    Now       : New Grad SWE
+              : Backend · Platform · AI Infra
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=4" width="100%"/>
 
 <!-- ===================== TECH ===================== -->
-## &nbsp;🧰&nbsp; Tech Stack
+## &nbsp;🧰&nbsp; Tech Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,react,spring,nodejs,graphql,aws,docker,kubernetes,postgres,mysql,mongodb,redis,kafka,terraform,linux,githubactions&perline=10" alt="Tech stack"/>
+
+</div>
+
+<br/>
+
+### 🔥 Skill Gauge
+
+<div align="center">
+
+![Backend](https://progress-bar.xyz/95/?scale=100&title=Backend%20%2F%20Java%20%2F%20Spring&width=500&color=7c3aed&suffix=%25)
+![Distributed](https://progress-bar.xyz/92/?scale=100&title=Distributed%20Systems%20%2F%20Kafka&width=500&color=8b5cf6&suffix=%25)
+![Cloud](https://progress-bar.xyz/90/?scale=100&title=AWS%20%2F%20Cloud%20%2F%20DevOps&width=500&color=a78bfa&suffix=%25)
+![GenAI](https://progress-bar.xyz/88/?scale=100&title=GenAI%20%2F%20RAG%20%2F%20Agents&width=500&color=c084fc&suffix=%25)
+![Frontend](https://progress-bar.xyz/80/?scale=100&title=React%20%2F%20TypeScript&width=500&color=38bdf8&suffix=%25)
+![DSA](https://progress-bar.xyz/85/?scale=100&title=DSA%20%2F%20System%20Design&width=500&color=22d3ee&suffix=%25)
 
 </div>
 
@@ -148,7 +207,21 @@ Hemanth Reddy:
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=3" width="100%"/>
+### 🧬 How I Build
+
+```mermaid
+flowchart LR
+    A[Problem] --> B[API + Domain Design]
+    B --> C[Services + Data]
+    C --> D[Kafka / Redis / SQL]
+    D --> E[Cloud Deploy]
+    E --> F[Observe + Iterate]
+    F --> G[Measurable Impact]
+    style A fill:#312e81,stroke:#a78bfa,color:#fff
+    style G fill:#059669,stroke:#34d399,color:#fff
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=4" width="100%"/>
 
 <!-- ===================== EXPERIENCE ===================== -->
 ## &nbsp;💼&nbsp; Experience
@@ -179,14 +252,14 @@ Hemanth Reddy:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:312e81,100:7c3aed&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20BUILDS&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- ===================== PROJECTS ===================== -->
 ## &nbsp;🚀&nbsp; Featured Projects
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/CliniPulse_AI-Spring_RAG-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![CliniPulse](https://img.shields.io/badge/CliniPulse_AI-Spring_RAG-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![Portal](https://img.shields.io/badge/ATS_Portal-Full_Stack-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![LLM](https://img.shields.io/badge/LLM_Factory-LoRA%2FQLoRA-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Agents](https://img.shields.io/badge/A2A_Agents-LangGraph-111827?style=for-the-badge&logo=langchain&logoColor=ffffff)
@@ -266,42 +339,70 @@ Resume-aligned site — experience, projects, skills, contact.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=3" width="100%"/>
-
-<!-- ===================== STATS ===================== -->
-## &nbsp;📊&nbsp; GitHub Analytics
+### 🏆 Highlight Reel
 
 <div align="center">
 
-<sub>Live snapshot · 219 commits · 9 PRs · 6 merged · 288+ contributions · full card (stars · issues · reviews)</sub>
+![Orders](https://img.shields.io/badge/1M%2B_Orders-Paytm_ONDC-7c3aed?style=for-the-badge)
+![Reliability](https://img.shields.io/badge/99.9%25_Reliability-EchoStar_AWS-059669?style=for-the-badge)
+![Cost](https://img.shields.io/badge/%247.3M_Projected_Savings-Pipeline-0ea5e9?style=for-the-badge)
+![GPA](https://img.shields.io/badge/NYU_3.97_GPA-Academic-f59e0b?style=for-the-badge)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=4" width="100%"/>
+
+<!-- ===================== ANALYTICS DASHBOARD ===================== -->
+## &nbsp;📊&nbsp; Analytics Command Center
+
+<div align="center">
+
+<sub>📈 Full GitHub dashboard · refreshed daily · no flaky public pin cards</sub>
 
 <br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nckhemanth&theme=radical" width="96%" alt="Profile details"/>
+
+<br/>
 
 <img src="./profile/github-stats.svg" height="270" alt="GitHub stats"/>
 <img src="./profile/streak.svg" height="195" alt="GitHub streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="96%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nckhemanth&theme=radical" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nckhemanth&theme=radical" height="200"/>
 
 <br/>
 
 <img src="./profile/top-langs.svg" height="210" alt="Top languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth&theme=midnight_purple&utcOffset=-5" height="210"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth&theme=radical&utcOffset=-5" height="210"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-rainbow.svg" width="96%" alt="3D contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Contribution%20Flamegraph" width="96%"/>
+
+</div>
+
+### 🎮 Contribution Playground
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-rainbow.svg" width="96%" alt="3D rainbow contributions"/>
 <br/>
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-view.svg" width="96%" alt="3D contribution night view"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-season-animate.svg" width="96%" alt="3D season animate"/>
+<br/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-gitblock.svg" width="96%" alt="3D gitblock"/>
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/__Hemanth_Reddy__?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="78%" alt="LeetCode stats"/>
-<br/>
-<a href="https://github.com/nckhemanth/leetcode-sync"><img src="https://img.shields.io/badge/Solutions-leetcode--sync-111827?style=for-the-badge&logo=github&logoColor=a78bfa"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg" width="96%"/>
+</picture>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/pacman-contribution-graph-dark.svg"/>
@@ -311,16 +412,71 @@ Resume-aligned site — experience, projects, skills, contact.
 
 </div>
 
-<sub>Stats refresh daily via GitHub Actions · 3D graph + Pac-Man live on the <code>output</code> branch</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=3" width="100%"/>
-
-<!-- ===================== CONTACT ===================== -->
-## &nbsp;📬&nbsp; Let's Connect
+### 🧩 LeetCode Arena
 
 <div align="center">
 
-**Actively seeking New Grad Software Engineer roles — Backend · Distributed Systems · Cloud · GenAI**
+<img src="https://leetcard.jacoblin.cool/__Hemanth_Reddy__?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="82%" alt="LeetCode stats"/>
+<br/>
+<a href="https://github.com/nckhemanth/leetcode-sync"><img src="https://img.shields.io/badge/Solutions-leetcode--sync-111827?style=for-the-badge&logo=github&logoColor=a78bfa"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/__Hemanth_Reddy__/"><img src="https://img.shields.io/badge/Profile-__Hemanth__Reddy__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=4" width="100%"/>
+
+<!-- ===================== FUN / IMPRESS ===================== -->
+## &nbsp;✨&nbsp; Quick Hits Recruiters Love
+
+<details open>
+<summary><b>⚡ 60-second pitch</b></summary>
+<br/>
+
+New Grad SWE with **2+ years** shipping backend systems at Paytm (1M+ orders) and cloud/GenAI at EchoStar (99.9% pipelines). NYU MS CIS **3.97 GPA**. Looking for Backend / Platform / AI Infra roles.
+
+</details>
+
+<details>
+<summary><b>🎯 What I want next</b></summary>
+<br/>
+
+- Build high-throughput services and event pipelines
+- Own reliability, latency, and cost metrics end-to-end
+- Ship GenAI features with production guardrails (RAG, evals, observability)
+
+</details>
+
+<details>
+<summary><b>🧠 Interview-ready topics</b></summary>
+<br/>
+
+Java · Spring Boot · Kafka · Redis · SQL tuning · System Design · AWS · RAG · concurrency · CI/CD
+
+</details>
+
+<details>
+<summary><b>🔥 Fun facts</b></summary>
+<br/>
+
+- Once cut cart errors by **75%** by hunting SQL deadlocks
+- Built a Bedrock summarizer that saved **40%** RCA time
+- Phoenix mascot because burned systems should rise stronger 🔥→🪽
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=4" width="100%"/>
+
+<!-- ===================== CONTACT ===================== -->
+## &nbsp;📬&nbsp; Let's Build Something
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,16,20&height=80&section=header&text=Actively%20seeking%20New%20Grad%20SWE%20roles&fontSize=24&fontColor=ffffff&animation=twinkling" width="90%"/>
+
+<br/><br/>
+
+**Backend · Distributed Systems · Cloud · GenAI · NYC · Open to relocate**
 
 <br/>
 
@@ -329,10 +485,16 @@ Resume-aligned site — experience, projects, skills, contact.
 [![Phone](https://img.shields.io/badge/%2B1_929--969--8483-111827?style=for-the-badge&logo=phone&logoColor=ffffff)](tel:+19299698483)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-reddy-a22a931a0/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/nckhemanth.cloud-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://nckhemanth.cloud)
 
 <br/>
 
 <sub>📍 New York City &nbsp;·&nbsp; 🎓 NYU · IIT Dharwad &nbsp;·&nbsp; ✈️ Open to relocate &nbsp;·&nbsp; ⚡ Replies within 12 hours</sub>
+
+<br/><br/>
+
+⭐️ From [`nckhemanth`](https://github.com/nckhemanth) — if this profile helped, a star on a project means a lot
 
 </div>
 
@@ -356,4 +518,4 @@ Open to New Grad Software Engineer roles. Open to relocation.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:4c1d95,70:1e1b4b,100:020617&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,30:7c3aed,60:4c1d95,85:1e1b4b,100:020617&height=160&section=footer&text=Thanks%20for%20stopping%20by%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
