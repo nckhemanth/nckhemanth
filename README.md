@@ -178,7 +178,7 @@ AI system design, TypeScript/Zod, HLD notes — public study repos I keep update
 <br/>
 
 <img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/top-langs.svg?v=20260715b" height="180" alt="Top languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth&theme=midnight_purple&utcOffset=-5&v=20260715b" height="180"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-gitblock.svg?v=20260715b" height="180" alt="Contribution blocks"/>
 
 <br/>
 
