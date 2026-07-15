@@ -40,7 +40,7 @@ Hemanth Reddy:
     - NYU — MS Computer and Information Sciences · CGPA 3.97/4
     - IIT Dharwad — B.Tech CSE · CGPA 3.7/4
   focus:     [ Backend, Distributed Systems, Cloud, GenAI ]
-  shipped:   1M+ orders · 99.9% reliable pipelines · HIPAA RAG systems
+  builds:    Java/Spring services · agentic AI · RAG · streaming data systems
   seeking:   New Grad SWE roles · open to relocate
   ethos:     clean architecture · TDD · observability at scale
 ```
@@ -88,11 +88,9 @@ Hemanth Reddy:
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="58" height="58"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="58" height="58"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="58" height="58"/>&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="58" height="58"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="58" height="58"/>&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="58" height="58"/>&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="58" height="58"/>&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="58" height="58"/>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="58" height="58"/>
 
 </div>
 
@@ -115,11 +113,11 @@ Hemanth Reddy:
 **Frameworks & Distributed**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f2937?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/Hibernate-1f2937?style=flat-square&logo=hibernate&logoColor=59666C)
-![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Spring Security](https://img.shields.io/badge/Spring_Security-1f2937?style=flat-square&logo=springsecurity&logoColor=6DB33F)
 ![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB)
-![GraphQL](https://img.shields.io/badge/GraphQL-1f2937?style=flat-square&logo=graphql&logoColor=E10098)
-![gRPC](https://img.shields.io/badge/gRPC-1f2937?style=flat-square&logo=google&logoColor=4285F4)
+![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?style=flat-square&logo=fastapi&logoColor=009688)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-1f2937?style=flat-square&logo=apachespark&logoColor=E25A1C)
 ![Kafka](https://img.shields.io/badge/Kafka-1f2937?style=flat-square&logo=apachekafka&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/Redis-1f2937?style=flat-square&logo=redis&logoColor=DC382D)
 ![WebSockets](https://img.shields.io/badge/WebSockets-1f2937?style=flat-square&logo=socketdotio&logoColor=ffffff)
@@ -130,31 +128,32 @@ Hemanth Reddy:
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![LLaMA 3](https://img.shields.io/badge/LLaMA_3-1f2937?style=flat-square&logo=meta&logoColor=0081FB)
+![Spring AI](https://img.shields.io/badge/Spring_AI-1f2937?style=flat-square&logo=spring&logoColor=6DB33F)
 ![LangChain](https://img.shields.io/badge/LangChain-1f2937?style=flat-square&logo=langchain&logoColor=ffffff)
-![Amazon Bedrock](https://img.shields.io/badge/Bedrock-1f2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=flat-square&logo=langchain&logoColor=ffffff)
+![CrewAI](https://img.shields.io/badge/CrewAI-1f2937?style=flat-square&logoColor=ffffff)
+![AutoGen](https://img.shields.io/badge/AutoGen-1f2937?style=flat-square&logo=microsoft&logoColor=5E5E5E)
 ![RAG](https://img.shields.io/badge/RAG-1f2937?style=flat-square&logo=openai&logoColor=ffffff)
 ![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-1f2937?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-1f2937?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-1f2937?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Azure](https://img.shields.io/badge/Azure-1f2937?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1f2937?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-1f2937?style=flat-square&logo=terraform&logoColor=7B42BC)
-![Jenkins](https://img.shields.io/badge/Jenkins-1f2937?style=flat-square&logo=jenkins&logoColor=D24939)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/Linux-1f2937?style=flat-square&logo=linux&logoColor=FCC624)
 
 **Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=47A248)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1f2937?style=flat-square&logo=elasticsearch&logoColor=005571)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-1f2937?style=flat-square&logo=timescale&logoColor=FDB515)
+![Cassandra](https://img.shields.io/badge/Cassandra-1f2937?style=flat-square&logo=apachecassandra&logoColor=1287B1)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1f2937?style=flat-square&logoColor=ffffff)
+![pgvector](https://img.shields.io/badge/pgvector-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![JUnit](https://img.shields.io/badge/JUnit-1f2937?style=flat-square&logo=junit5&logoColor=25A162)
-![Prometheus](https://img.shields.io/badge/Prometheus-1f2937?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032)
 
 </td>
 </tr>
@@ -181,7 +180,7 @@ Hemanth Reddy:
 <summary><b>🏢&nbsp; Paytm &nbsp;—&nbsp; Software Development Engineer &nbsp;·&nbsp; Jan 2022 – Jun 2024 · Noida, India</b></summary>
 <br/>
 
-> **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Java` · `Spring Boot` · `Kafka` · `Redis` · `Kubernetes`
+> **Backend Engineering** · **Distributed Systems** · **API Design** · **Microservices** · **CI/CD & Observability** &nbsp;—&nbsp; `Java` · `Spring Boot` · `Hibernate` · `Node.js` · `Kafka` · `Redis` · `AWS` · `PostgreSQL` · `Docker` · `Kubernetes`
 
 - Led ONDC order and cart services from launch to **1M+ orders** and **5,000+ merchants** with Spring Boot and Node.js microservices.
 - Designed hybrid APIs with Webhooks, gRPC, and GraphQL; drove **50+** design/code reviews per quarter across **10+** microservices.
@@ -196,16 +195,18 @@ Hemanth Reddy:
 <!-- ===================== PROJECTS ===================== -->
 ## &nbsp;🚀&nbsp; Featured Projects
 
+<sub>Verified against each public repository's current default branch. Project stacks below describe the code that is public now.</sub>
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
 ### 🩺 CliniPulse AI
-> **Java** · **Spring Boot** · **Spring AI** · **React** · **Docker** · **Azure**
+> **Java 21** · **Spring Boot** · **Spring AI** · **Next.js** · **PostgreSQL** · **ChromaDB** · **Azure**
 
-HIPAA-compliant medical RAG platform with Spring Security PHI handling and ChromaDB — report generation from **30 min → under 2 min**. Llama 70B on Azure H100 VMs.
+Secure medical-document RAG with PDF validation, SHA-256 integrity metadata, Azure Blob Storage, token-aware chunking, grounded retrieval, OAuth 2.0 scopes, and audit records.
 
-[`Live Demo`](https://clini-pulse.vercel.app/)
+[`Source`](https://github.com/nckhemanth/clinipulse-main)
 
 </td>
 <td valign="top" width="50%">
@@ -213,57 +214,63 @@ HIPAA-compliant medical RAG platform with Spring Security PHI handling and Chrom
 ### 🧬 LLM Fine Tuning Factory
 > **Python** · **PyTorch** · **PEFT** · **LoRA** · **QLoRA** · **FastAPI**
 
-Fine-tuned **5 domain models** (HR, Finance, Healthcare, Marketing, Sales) on H100 GPUs — **70%** cheaper than proprietary APIs. Includes MCP subscription automation (Glama ecosystem).
+Training and serving factory for **five domain models** with Full, DPO, PEFT, LoRA, and QLoRA workflows plus an OpenAI-compatible FastAPI backend and Docker deployment.
 
-[`GitHub`](https://github.com/nckhemanth/llm-finetune-factory)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### 🧑‍💼 ATS Recruiting Portal
-> **Java** · **Spring Boot 3** · **React** · **TypeScript** · **PostgreSQL**
-
-Layered Spring Boot backend with JWT RBAC, MapStruct DTOs, JPA Specifications, and Elasticsearch search — cut list latency by **~60%**.
-
-[`Live Demo`](https://sparkling-moonbeam-c4168f.netlify.app/)
-
-</td>
-<td valign="top" width="50%">
-
-### 🧳 Multi-Agent A2A Travel Orchestrator
-> **Python** · **LangChain** · **LangGraph** · **CrewAI** · **AutoGen**
-
-Multi-agent itinerary planner over the A2A protocol with autonomous budget-vs-experience negotiation — **90%** faster than manual research.
-
-[`Live Demo`](https://huggingface.co/spaces/nckhemanth/travel-orchestrator)
+[`Source`](https://github.com/nckhemanth/llm-finetune-factory)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 🔋 NSF Real-Time Smart Grid Platform
-> **Java** · **Spring Boot** · **React** · **TypeScript** · **D3.js** · **TimescaleDB**
+### 💳 Subscription Tracker MCP
+> **Python** · **MCP** · **Gmail API** · **MySQL** · **OAuth 2.0**
 
-Real-time grid monitoring with WebSockets at 2-second intervals across **50+ nodes**, dual-layer TimescaleDB + JPA backend, and interactive D3 dashboards.
+MCP server with **16 tools** for Gmail search, subscription extraction, MySQL CRUD, gap detection, anomaly checks, and renewal alerts.
 
-[`Website`](https://www.seed-grid.org/)
+[`Source`](https://github.com/nckhemanth/subscription-tracker-mcp)
 
 </td>
 <td valign="top" width="50%">
 
-### 🌐 Portfolio
-> **Next.js** · **TypeScript** · **React**
+### 🧳 DreamTrip A2A Orchestrator
+> **Python** · **LangChain** · **CrewAI** · **AutoGen** · **Streamlit** · **Docker**
 
-Personal portfolio aligned with my resume — experience, projects, skills, and contact.
+Multi-framework travel planner over an A2A JSON-RPC layer: LangChain filters candidates, CrewAI negotiates budget versus experience, and AutoGen creates Plotly cost artifacts.
 
-[`nckhemanth.cloud`](https://nckhemanth.cloud)
+[`Source`](https://github.com/nckhemanth/a2a-travel-orchestration)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🚛 RoadGuard.AI
+> **Next.js** · **TypeScript** · **FastAPI** · **LangGraph** · **PostgreSQL** · **Redis**
+
+Trucking-compliance MVP combining deterministic readiness rules, a LangGraph supervisor/verifier flow, human-approved task queues, source citations, audit trails, and a RAG-oriented compliance interface.
+
+[`Source`](https://github.com/nckhemanth/RoadGuard.AI)
+
+</td>
+<td valign="top" width="50%">
+
+### 💳 Real-Time Fraud Detection
+> **PySpark** · **Kafka** · **Cassandra** · **Flask** · **Socket.IO**
+
+End-to-end big-data pipeline covering ETL, Random Forest training, Kafka streaming inference, Cassandra persistence, synthetic traffic generation, load tests, and a live alert dashboard.
+
+[`Source`](https://github.com/nckhemanth/creditcard_fraud_detection)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**Learning systems:** [`TypeScript + Zod Field Guide`](https://github.com/nckhemanth/TypeScript) · [`Next.js Field Guide`](https://github.com/nckhemanth/Next.js) · [`YC Directory`](https://github.com/nckhemanth/nextjs-yc-directory) · [`LeetCode Sync`](https://github.com/nckhemanth/leetcode-sync)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:a855f7&height=2" width="100%"/>
 
@@ -284,7 +291,7 @@ Personal portfolio aligned with my resume — experience, projects, skills, and 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nckhemanth&theme=midnight_purple&utcOffset=-5" height="200"/>
 </div>
 
-<sub>Stats refresh daily via GitHub Actions · <a href="https://yhype.me/">Ÿ HŸPE</a> for visitor trends</sub>
+<sub>Repository count, rolling-year activity, and language bytes refresh daily from GitHub GraphQL + Linguist data. Language card uses owned, non-fork public repositories and excludes notebooks, markup, generated files, and infrastructure-only languages.</sub>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/__Hemanth_Reddy__?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" width="78%" alt="LeetCode stats"/>
@@ -331,13 +338,13 @@ Hemanth Reddy — New Grad Software Engineer based in New York City. MS in Compu
 
 **Languages:** Java, Python, C++, JavaScript, TypeScript, SQL, Shell.
 
-**Frameworks & Distributed:** Spring Boot, React, Node.js, Hibernate, REST APIs, gRPC, GraphQL, microservices, Kafka, Redis, WebSockets.
+**Frameworks & Distributed:** Spring Boot, Spring Security, Spring AI, React, Next.js, FastAPI, Apache Spark, REST APIs, microservices, Kafka, Redis, WebSockets.
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Elasticsearch, TimescaleDB.
+**Databases & Retrieval:** PostgreSQL, pgvector, MySQL, Cassandra, ChromaDB.
 
-**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, CI/CD, Jenkins, Terraform, Linux.
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, Linux.
 
-**AI / ML:** PyTorch, LLaMA 3, LangChain, RAG, Amazon Bedrock.
+**AI / ML:** PyTorch, PEFT, LoRA/QLoRA, LangChain, LangGraph, CrewAI, AutoGen, RAG, OpenAI-compatible inference.
 
 Open to New Grad Software Engineer roles. Open to relocation.
 
