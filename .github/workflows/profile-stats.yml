@@ -25,8 +25,8 @@ jobs:
           options: >-
             username=${{ github.repository_owner }}&show_icons=true&hide_border=true
             &count_private=true&include_all_commits=true&theme=tokyonight
-            &bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9
-            &border_radius=12&hide=stars,issues,contribs
+            &bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9
+            &border_radius=12&show=reviews,prs_merged,discussions_started
           path: profile/github-stats.svg
           token: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -36,7 +36,7 @@ jobs:
           card: top-langs
           options: >-
             username=${{ github.repository_owner }}&layout=donut-vertical&hide_border=true
-            &theme=transparent&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6
+            &theme=transparent&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6
             &text_color=C9D1D9&border_radius=12&langs_count=6
             &hide=jupyter%20notebook,php,c,shell,dockerfile,html,css,makefile,vue,tsql,ejs
             &custom_title=Core%20Languages
@@ -48,8 +48,9 @@ jobs:
         with:
           options: >-
             user=${{ github.repository_owner }}&hide_border=true&background=0d1117
-            &stroke=8b5cf6&ring=8b5cf6&fire=a855f7&currStreakLabel=8b5cf6
-            &sideLabels=c9d1d9&dates=8b949e&border_radius=12&disable_animations=true
+            &stroke=8b5cf6&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa
+            &currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e
+            &border_radius=12&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
