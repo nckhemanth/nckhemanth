@@ -8,38 +8,38 @@
   </style>
   <rect x="0.5" y="0.5" width="359" height="244" rx="12" fill="#0d1117" stroke="#30363d"/>
   <text class="title" x="24" y="29">Core Languages</text>
-  <text class="subtitle" x="24" y="44">Owned public repositories · GitHub Linguist</text>
+  <text class="subtitle" x="24" y="44">Owned public repositories · code languages only</text>
   <clipPath id="language-bar"><rect x="24" y="54" width="312" height="9" rx="4.5"/></clipPath>
-  <g clip-path="url(#language-bar)"><rect x="24.00" y="54" width="154.54" height="9" fill="#f34b7d"/><rect x="178.54" y="54" width="84.42" height="9" fill="#3572A5"/><rect x="262.96" y="54" width="26.86" height="9" fill="#b07219"/><rect x="289.82" y="54" width="19.23" height="9" fill="#f1e05a"/><rect x="309.05" y="54" width="14.24" height="9" fill="#9DC3FF"/><rect x="323.29" y="54" width="12.71" height="9" fill="#3178c6"/></g>
+  <g clip-path="url(#language-bar)"><rect x="24.00" y="54" width="146.28" height="9" fill="#f34b7d"/><rect x="170.28" y="54" width="79.91" height="9" fill="#3572A5"/><rect x="250.19" y="54" width="29.23" height="9" fill="#b07219"/><rect x="279.43" y="54" width="24.82" height="9" fill="#3178c6"/><rect x="304.24" y="54" width="18.28" height="9" fill="#f1e05a"/><rect x="322.52" y="54" width="13.48" height="9" fill="#9DC3FF"/></g>
 
     <g transform="translate(24 96)">
       <circle cx="5" cy="-4" r="5" fill="#f34b7d"/>
       <text class="language" x="17" y="0">C++</text>
-      <text class="percent" x="17" y="18">49.5%</text>
+      <text class="percent" x="17" y="18">46.9%</text>
     </g>
     <g transform="translate(192 96)">
       <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
       <text class="language" x="17" y="0">Python</text>
-      <text class="percent" x="17" y="18">27.1%</text>
+      <text class="percent" x="17" y="18">25.6%</text>
     </g>
     <g transform="translate(24 142)">
       <circle cx="5" cy="-4" r="5" fill="#b07219"/>
       <text class="language" x="17" y="0">Java</text>
-      <text class="percent" x="17" y="18">8.6%</text>
+      <text class="percent" x="17" y="18">9.4%</text>
     </g>
     <g transform="translate(192 142)">
-      <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
-      <text class="language" x="17" y="0">JavaScript</text>
-      <text class="percent" x="17" y="18">6.2%</text>
-    </g>
-    <g transform="translate(24 188)">
-      <circle cx="5" cy="-4" r="5" fill="#9DC3FF"/>
-      <text class="language" x="17" y="0">ANTLR</text>
-      <text class="percent" x="17" y="18">4.6%</text>
-    </g>
-    <g transform="translate(192 188)">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
       <text class="language" x="17" y="0">TypeScript</text>
-      <text class="percent" x="17" y="18">4.1%</text>
+      <text class="percent" x="17" y="18">8.0%</text>
+    </g>
+    <g transform="translate(24 188)">
+      <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
+      <text class="language" x="17" y="0">JavaScript</text>
+      <text class="percent" x="17" y="18">5.9%</text>
+    </g>
+    <g transform="translate(192 188)">
+      <circle cx="5" cy="-4" r="5" fill="#9DC3FF"/>
+      <text class="language" x="17" y="0">ANTLR</text>
+      <text class="percent" x="17" y="18">4.3%</text>
     </g>
 </svg>
