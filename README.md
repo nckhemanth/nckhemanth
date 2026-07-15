@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/nckhemanth">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e1b4b,100:4c1d95&height=220&section=header&text=Hemanth%20Reddy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Systems%20%C2%B7%20Cloud%20%C2%B7%20AI&descAlignY=62&descSize=18&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e1b4b,100:4c1d95&height=220&section=header&text=Hemanth%20Reddy&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Systems%20%C2%B7%20Cloud%20%C2%B7%20Backend&descAlignY=62&descSize=18&descColor=c4b5fd" width="100%"/>
 </a>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 I'm Hemanth, a software engineer who likes building things that actually run in production.
 
-I work across **Java**, **Python**, **C++**, and **TypeScript**: backends, distributed systems, cloud pipelines, and more recently RAG / GenAI (agents, finetuning, doc intelligence).
+I work across **Java**, **Python**, **C++**, and **TypeScript**: backends, distributed systems, cloud pipelines, and more recently RAG, agents, finetuning, and document intelligence.
 
 I studied CS at **IIT Dharwad** (CGPA 8.21/10), then Computer and Information Sciences at **NYU** (CGPA 3.97/4). Between those, I spent a couple of years at **Paytm** on order/catalog services, and a summer at **EchoStar** (Littleton, CO) on AWS data pipelines + Bedrock tooling.
 
@@ -51,19 +51,19 @@ Based in New York. I like clean services, boring reliable infra, and learning by
 ## Work
 
 <details open>
-<summary><b>EchoStar · Software Systems Engineering Intern · Jun – Aug 2025 · Littleton, CO</b></summary>
+<summary><b>EchoStar · Software Systems Engineering Intern · Jun to Aug 2025 · Littleton, CO</b></summary>
 <br/>
 
 `Java` · `Spring Boot` · `AWS` · `React` · `TypeScript` · `PostgreSQL` · `Bedrock` · `Python`
 
 - Architected an event driven SFTP based drone data ingestion pipeline on AWS (Transfer Family, S3, Lambda, EventBridge, SQS) via IaC, reaching 99.9% upload reliability and a projected 97% cost reduction ($7.3M/yr).
 - Managed full SDLC for 2D to 3D photogrammetry automation and a full stack Cesium 3D Tiles viewer (React, TypeScript, Spring Boot, PostgreSQL).
-- Engineered a GenAI summarizer on Amazon Bedrock that cut incident response time by 40% with telemetry insights and root cause analysis.
+- Engineered a Bedrock summarizer that cut incident response time by 40% with telemetry insights and root cause analysis.
 
 </details>
 
 <details open>
-<summary><b>Paytm · Software Development Engineer (5 Mo Intern + 2 Yr FTE) · Jan 2022 – Jun 2024 · Noida</b></summary>
+<summary><b>Paytm · Software Development Engineer (5 Mo Intern + 2 Yr FTE) · Jan 2022 to Jun 2024 · Noida</b></summary>
 <br/>
 
 `Java` · `Spring Boot` · `Hibernate` · `Node.js` · `Kafka` · `Redis` · `AWS` · `PostgreSQL` · `Docker` · `Kubernetes`
@@ -86,8 +86,8 @@ Based in New York. I like clean services, boring reliable infra, and learning by
 <tr>
 <td valign="top" width="50%">
 
-### CliniPulse AI: Secure Medical Document Intelligence
-HIPAA aware medical doc RAG. Spring Boot, Spring AI, Next.js, ChromaDB, Azure. Report gen cut from 30 min to under 2 min.
+### CliniPulse: Secure Medical Document Intelligence
+HIPAA aware medical document intelligence with Spring Boot, Spring AI, Next.js, ChromaDB, and Azure. Report generation cut from 30 min to under 2 min.
 
 [`Demo`](https://clini-pulse.vercel.app/) · [`Repo`](https://github.com/nckhemanth/clinipulse-main)
 
@@ -195,7 +195,7 @@ WebSocket telemetry every 2s, D3.js for 50+ nodes, TimescaleDB + Spring Data JPA
 
 <div align="center">
 
-If you want to talk systems, RAG, or something you're building — reach out.
+If you want to talk systems, RAG, or something you're building, reach out.
 
 <br/>
 
@@ -213,7 +213,7 @@ If you want to talk systems, RAG, or something you're building — reach out.
 <summary>Keywords</summary>
 <br/>
 
-Hemanth Reddy — software engineer in New York. Backend, distributed systems, cloud, GenAI. Experience at Paytm and EchoStar. Python, C++, Java, TypeScript, Spring Boot, Kafka, Redis, AWS, RAG, LangChain, PyTorch.
+Hemanth Reddy, software engineer in New York. Backend, distributed systems, cloud, and ML tooling. Experience at Paytm and EchoStar. Java, Python, C++, TypeScript, Spring Boot, Kafka, Redis, AWS, RAG, LangChain, PyTorch.
 
 </details>
 
