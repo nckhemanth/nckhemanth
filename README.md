@@ -166,7 +166,7 @@ WebSocket telemetry every 2s, D3.js for 50+ nodes, TimescaleDB + Spring Data JPA
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a855f7&area=true&area_color=6366f1&hide_border=true&radius=12&v=20260715e" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a855f7&area=true&area_color=6366f1&hide_border=true&radius=12&v=20260716a" width="92%"/>
 
 <br/>
 
