@@ -156,23 +156,23 @@ WebSocket telemetry every 2s, D3.js for 50+ nodes, TimescaleDB + Spring Data JPA
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/github-stats.svg?v=20260716b" height="195" alt="GitHub stats"/>
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/streak.svg?v=20260716b" height="195" alt="GitHub streak"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/github-stats.svg?v=20260716c" height="195" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/streak.svg?v=20260716c" height="195" alt="GitHub streak"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-rainbow.svg?v=20260716b" width="92%" alt="Contributions (last 12 months)"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-rainbow.svg?v=20260716c" width="92%" alt="Contributions (last 12 months)"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/top-langs.svg?v=20260716b" height="195" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/top-langs.svg?v=20260716c" height="195" alt="Top languages"/>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260716b"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake.svg?v=20260716b"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260716b" width="92%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260716c"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake.svg?v=20260716c"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260716c" width="92%"/>
 </picture>
 
 <br/>
