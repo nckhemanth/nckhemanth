@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hemanth Reddy's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Commits  : 997, Total PRs: 14, Total Issues: 7, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Commits  : 998, Total PRs: 14, Total Issues: 7, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 210.81503445291085;
+        stroke-dashoffset: 210.80049203374773;
       }
     }
   
@@ -112,7 +112,7 @@
           stroke="#e4e2e2"
           width="342.90625000000006"
           fill="#0d1117"
-          stroke-opacity="1"
+          stroke-opacity="0"
         />
 
         
@@ -151,7 +151,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >997</text>
+      >998</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
