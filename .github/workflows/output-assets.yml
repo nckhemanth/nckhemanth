@@ -48,6 +48,6 @@ jobs:
         with:
           target_branch: output
           build_dir: combined
-          keep_history: true
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
