@@ -1,0 +1,26 @@
+name: Refresh all profile assets
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-refresh-all
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    uses: ./.github/workflows/profile-stats.yml
+    secrets: inherit
+
+  output:
+    needs: stats
+    uses: ./.github/workflows/output-assets.yml
+    secrets: inherit
