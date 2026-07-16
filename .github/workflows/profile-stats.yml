@@ -27,7 +27,7 @@ jobs:
             username=${{ github.repository_owner }}&show_icons=true&hide_border=true
             &count_private=true&include_all_commits=true&theme=tokyonight
             &bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9
-            &border_radius=12&show=reviews,prs_merged,discussions_started
+            &border_radius=12&hide_rank=true&hide=stars
           path: profile/github-stats.svg
           token: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -52,6 +52,7 @@ jobs:
             &background=0D1117&border=0D1117&stroke=8B5CF6&ring=A78BFA&fire=C084FC
             &currStreakLabel=A78BFA&currStreakNum=FFFFFF&sideLabels=C9D1D9
             &sideNums=FFFFFF&dates=8B949E&border_radius=12&disable_animations=true
+            &hide_total_contributions=true
           path: profile/streak.svg
           token: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "profile-night-rainbow",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#c9d1d9",
+    "strongColor": "#a78bfa",
+    "weakColor": "#8b949e",
+    "radarColor": "#8b5cf6",
+    "growingAnimation": true,
+    "saturation": "50%",
+    "contribLightness": ["20%", "30%", "35%", "40%", "50%"],
+    "duration": "10s",
+    "hueRatio": -7
+  }
+]

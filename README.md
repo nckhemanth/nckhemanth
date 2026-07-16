@@ -156,28 +156,23 @@ WebSocket telemetry every 2s, D3.js for 50+ nodes, TimescaleDB + Spring Data JPA
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/github-stats.svg?v=20260716a" height="270" alt="GitHub stats"/>
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/streak.svg?v=20260716a" height="195" alt="GitHub streak"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/github-stats.svg?v=20260716b" height="195" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/streak.svg?v=20260716b" height="195" alt="GitHub streak"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/top-langs.svg?v=20260716a" height="180" alt="Top languages"/>
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-gitblock.svg?v=20260716a" height="180" alt="Contribution blocks"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-rainbow.svg?v=20260716b" width="92%" alt="Contributions (last 12 months)"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nckhemanth&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a855f7&area=true&area_color=6366f1&hide_border=true&radius=12&v=20260716a" width="92%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/profile-night-rainbow.svg?v=20260716a" width="92%" alt="3D contributions"/>
+<img src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/main/profile/top-langs.svg?v=20260716b" height="195" alt="Top languages"/>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260716a"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake.svg?v=20260716a"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260716a" width="92%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260716b"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake.svg?v=20260716b"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/nckhemanth/nckhemanth/output/github-contribution-grid-snake-dark.svg?v=20260716b" width="92%"/>
 </picture>
 
 <br/>

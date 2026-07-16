@@ -10,6 +10,7 @@ on:
       - main
     paths:
       - ".github/workflows/output-assets.yml"
+      - "conf/profile-3d-contrib.json"
 
 concurrency:
   group: profile-output-branch
@@ -33,18 +34,19 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate 3D contribution SVGs
+      - name: Generate 3D contribution SVG
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           USERNAME: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN != '' && secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          SETTING_JSON: conf/profile-3d-contrib.json
 
       - name: Merge output assets
         run: |
           mkdir -p combined
           cp dist/*.svg combined/ 2>/dev/null || true
-          cp profile-3d-contrib/*.svg combined/ 2>/dev/null || true
+          cp profile-3d-contrib/profile-night-rainbow.svg combined/ 2>/dev/null || true
           ls -la combined/
 
       - name: Push merged assets to output branch
