@@ -49,7 +49,6 @@ jobs:
           import re
           p = Path("profile/streak.svg")
           svg = p.read_text()
-          # Action sometimes emits near-white card fill with white numerals.
           svg = re.sub(
               r"(<g style='isolation: isolate'>\s*<rect stroke='#000000' stroke-opacity='0' fill=')[^']+(')",
               r"\g<1>#0d1117\2",
@@ -59,6 +58,18 @@ jobs:
           svg = svg.replace("fill='#FFFEFE'", "fill='#0d1117'").replace('fill="#FFFEFE"', 'fill="#0d1117"')
           p.write_text(svg)
           print("streak card fill fixed")
+          PY
+
+      - name: Strip rank from stats card title
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path("profile/github-stats.svg")
+          svg = p.read_text()
+          svg = re.sub(r", Rank: [A-Z][+-]?", "", svg)
+          p.write_text(svg)
+          print("stats rank removed")
           PY
 
       - name: Commit stats
