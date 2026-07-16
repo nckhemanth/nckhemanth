@@ -74,12 +74,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff --cached --quiet && exit 0
+          mkdir -p /tmp/profile-svgs
+          cp profile/*.svg /tmp/profile-svgs/
           git fetch origin main
-          git stash push --include-untracked -m stats profile/*.svg
           git reset --hard origin/main
-          git stash pop
+          cp /tmp/profile-svgs/*.svg profile/
           git add profile/*.svg
           git diff --cached --quiet && exit 0
           git commit -m "chore: refresh profile stats SVGs"
