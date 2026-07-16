@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - ".github/workflows/**"
+      - "conf/profile-3d-contrib.json"
 
 permissions:
   contents: write

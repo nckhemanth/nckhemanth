@@ -5,12 +5,6 @@ on:
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/output-assets.yml"
-      - "conf/profile-3d-contrib.json"
 
 concurrency:
   group: profile-output-branch
