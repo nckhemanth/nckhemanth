@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hemanth Reddy's GitHub Stats</title>
-        <desc id="descId">Total Commits  : 1206, Total PRs: 14, Total Issues: 7, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Commits  : 1207, Total PRs: 14, Total Issues: 7, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 206.34192143979195;
+        stroke-dashoffset: 206.32934025940403;
       }
     }
   
